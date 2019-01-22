@@ -1,0 +1,8 @@
+select s.name schema_name, t.name table_name, t.is_external, i.index_id, i.type_desc index_type_desc, dp.distribution_policy_desc
+from sys.schemas s
+	join sys.tables t on t.schema_id=s.schema_id
+	join sys.indexes i on t.object_id=i.object_id
+	left join sys.pdw_table_distribution_properties dp on dp.object_id=t.object_id
+group by s.name, t.name, t.is_external, i.index_id, i.type_desc, dp.distribution_policy_desc
+order by schema_name, table_name, index_id
+option(label='DMVs-Table Details');

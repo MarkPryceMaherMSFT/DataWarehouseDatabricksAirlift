@@ -1,0 +1,36 @@
+;with TableDistributionDetails as
+(
+	select s.name schema_name, t.name table_name, ps.index_id, ps.distribution_id, ps.partition_number, ps.row_count, ps.used_page_count
+	from sys.schemas s
+		join sys.tables t on t.schema_id=s.schema_id
+		join sys.pdw_table_mappings tm on tm.object_id=t.object_id
+		join sys.pdw_nodes_tables nt on tm.physical_name=nt.name
+		join sys.dm_pdw_nodes_db_partition_stats ps on nt.distribution_id=ps.distribution_id and nt.object_id=ps.object_id
+)
+, SummaryByDistribution as
+(
+	select schema_name, table_name, index_id, distribution_id, count(partition_number) partition_count, sum(row_count) row_count, sum(used_page_count) used_page_count
+	from TableDistributionDetails
+	group by schema_name, table_name, index_id, distribution_id
+)
+, CmpNodeSizes as
+(
+	select schema_name, table_name, index_id, count(distribution_id) distribution_count, max(partition_count) partition_count, sum(row_count) row_count, sum(used_page_count) used_page_count
+	,convert(decimal(10,2),((max(row_count*1.0) - min(row_count*1.0)) / nullif(sum(row_count*1.0),0))*100) skew_percent
+	from SummaryByDistribution
+	group by schema_name, table_name, index_id
+)
+, CtlNodeSizes as
+(
+	select s.name schema_name, t.name table_name, i.index_id, sum(p.rows) ctl_row_count
+	from sys.schemas s
+		join sys.tables t on t.schema_id=s.schema_id
+		join sys.indexes i on t.object_id=i.object_id
+		join sys.partitions p on p.object_id=t.object_id and p.index_id=i.index_id
+	group by s.name, t.name, i.index_id
+)
+select ctl.schema_name, ctl.table_name, ctl.index_id, cmp.distribution_count, cmp.partition_count, ctl.ctl_row_count, cmp.row_count, cmp.used_page_count*8/1024 size_mb, cmp.skew_percent
+from CmpNodeSizes cmp
+	join CtlNodeSizes ctl on cmp.schema_name=ctl.schema_name and cmp.table_name=ctl.table_name and cmp.index_id=ctl.index_id
+order by schema_name, table_name, index_id
+option(label='DMVs-Table Sizes');

@@ -1,0 +1,607 @@
+﻿ProductKey,ProductAlternateKey,ProductSubcategoryKey,WeightUnitMeasureCode,SizeUnitMeasureCode,EnglishProductName,SpanishProductName,FrenchProductName,StandardCost,FinishedGoodsFlag,Color,SafetyStockLevel,ReorderPoint,ListPrice,Size,SizeRange,Weight,DaysToManufacture,ProductLine,DealerPrice,Class,Style,ModelName,EnglishDescription,,,,,,,,,StartDate,EndDate,Status
+10,CN-6137,,,,Chainring Nut,,,,FALSE,Silver,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+514,RB-9231,6,G  ,,Rear Brakes,Frenos traseros,Freins arrière,47.286,TRUE,Silver,500,375,106.5,,NA,317,1,,63.9,,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+511,FR-M63S-40,12,LB ,CM ,ML Mountain Frame-W - Silver 40,,,199.3757,TRUE,Silver,500,375,364.09,40,38-40 CM,2.77,1,M ,218.454,M ,W ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+594,BK-M18S-48,1,LB ,CM ,Mountain-500 Silver 48,Montaña: 500 plateada 48,VTT 500 argent 48,308.2179,TRUE,Silver,100,75,564.99,48,48-52 CM,28.42,4,M ,338.994,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+554,HB-T928,4,,,HL Touring Handlebars,Manillar de paseo GA,Poignées de vélo de randonnée HL,40.6571,TRUE,NA,500,375,91.57,,NA,,1,T ,54.942,H ,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+507,FR-T67Y-50,16,LB ,CM ,LL Touring Frame - Yellow 50,Cuadro de paseo GB: amarillo 50,Cadre de vélo de randonnée LL - jaune 50,199.8519,TRUE,Yellow,500,375,333.42,50,48-52 CM,3.1,1,T ,200.052,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+512,FR-M63S-42,12,LB ,CM ,ML Mountain Frame-W - Silver 42,,,199.3757,TRUE,Silver,500,375,364.09,42,42-46 CM,2.81,1,M ,218.454,M ,W ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+500,FR-T98U-60,16,LB ,CM ,HL Touring Frame - Blue 60,Cuadro de paseo GA: azul 60,Cadre de vélo de randonnée HL - bleu 60,601.7437,TRUE,Blue,500,375,1003.91,60,60-62 CM,3.08,1,T ,602.346,H ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+506,FR-T67Y-44,16,LB ,CM ,LL Touring Frame - Yellow 44,Cuadro de paseo GB: amarillo 44,Cadre de vélo de randonnée LL - jaune 44,199.8519,TRUE,Yellow,500,375,333.42,44,42-46 CM,3.02,1,T ,200.052,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+526,FR-M21S-48,12,LB ,CM ,LL Mountain Frame - Silver 48,,,144.5938,TRUE,Silver,500,375,264.05,48,48-52 CM,3,1,M ,158.43,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+571,BK-T18Y-58,3,LB ,CM ,Touring-3000 Yellow 58,Paseo: 3000 amarilla 58,Vélo de randonnée 3000 jaune 58,461.4448,TRUE,Yellow,100,75,742.35,58,54-58 CM,29.79,4,T ,445.41,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+510,FR-T67U-44,16,LB ,CM ,LL Touring Frame - Blue 44,Cuadro de paseo GB: azul 44,Cadre de vélo de randonnée LL - bleu 44,199.8519,TRUE,Blue,500,375,333.42,44,42-46 CM,3.02,1,T ,200.052,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+544,PD-M562,13,G  ,,HL Mountain Pedal,Pedal de montaña GA,Pédale de VTT HL,35.9596,TRUE,Silver/Black,500,375,80.99,,NA,185,1,M ,48.594,H ,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+34,GP-0982,,,,Guide Pulley,,,,FALSE,NA,800,600,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+559,CH-0234,7,,,Chain,Cadena,Chaîne,8.9866,TRUE,Silver,500,375,20.24,,NA,,1,,12.144,,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+531,FR-M21B-42,12,LB ,CM ,LL Mountain Frame - Black 42,,,136.785,TRUE,Black,500,375,249.79,42,42-46 CM,2.92,1,M ,149.874,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+604,BK-R19B-44,2,LB ,CM ,Road-750 Black 44,Carretera: 750 negra 44,Vélo de route 750 noir 44,343.6496,TRUE,Black,100,75,539.99,44,42-46 CM,19.77,4,R ,323.994,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+534,FR-M21B-52,12,LB ,CM ,LL Mountain Frame - Black 52,,,136.785,TRUE,Black,500,375,249.79,52,48-52 CM,3.04,1,M ,149.874,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+505,FR-T67U-62,16,LB ,CM ,LL Touring Frame - Blue 62,Cuadro de paseo GB: azul 62,Cadre de vélo de randonnée LL - bleu 62,199.8519,TRUE,Blue,500,375,333.42,62,60-62 CM,3.2,1,T ,200.052,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+513,FR-M63S-46,12,LB ,CM ,ML Mountain Frame-W - Silver 46,,,199.3757,TRUE,Silver,500,375,364.09,46,42-46 CM,2.85,1,M ,218.454,M ,W ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+590,BK-M38S-46,1,LB ,CM ,Mountain-400-W Silver 46,Montaña: 400 para mujer plateada 46,VTT 400 -W argent 46,419.7784,TRUE,Silver,100,75,769.49,46,42-46 CM,27.42,4,M ,461.694,M ,W ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+509,FR-T67Y-58,16,LB ,CM ,LL Touring Frame - Yellow 58,Cuadro de paseo GB: amarillo 58,Cadre de vélo de randonnée LL - jaune 58,199.8519,TRUE,Yellow,500,375,333.42,58,54-58 CM,3.16,1,T ,200.052,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+52,HJ-9080,,,,Thin-Jam Hex Nut 12,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+588,BK-M38S-40,1,LB ,CM ,Mountain-400-W Silver 40,Montaña: 400 para mujer plateada 40,VTT 400 -W argent 40,419.7784,TRUE,Silver,100,75,769.49,40,38-40 CM,26.77,4,M ,461.694,M ,W ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+602,BB-8107,5,G  ,,ML Bottom Bracket,Eje de pedalier GM,Axe de pédalier ML,44.9506,TRUE,NA,500,375,101.24,,NA,168,1,,60.744,M ,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+82,LE-1000,,,,External Lock Washer 3,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+78,HT-8019,,,,Head Tube,,,,FALSE,NA,800,600,,,NA,,1,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+570,BK-T18Y-54,3,LB ,CM ,Touring-3000 Yellow 54,Paseo: 3000 amarilla 54,Vélo de randonnée 3000 jaune 54,461.4448,TRUE,Yellow,100,75,742.35,54,54-58 CM,29.42,4,T ,445.41,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+562,BK-T79Y-50,3,LB ,CM ,Touring-1000 Yellow 50,Paseo: 1000 amarilla 50,Vélo de randonnée 1000 jaune 50,1481.9379,TRUE,Yellow,100,75,2384.07,50,48-52 CM,25.42,4,T ,1430.442,H ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+19,EC-T209,,,,Touring End Caps,,,,FALSE,NA,1000,750,,,NA,,1,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+499,FR-T98U-54,16,LB ,CM ,HL Touring Frame - Blue 54,Cuadro de paseo GA: azul 54,Cadre de vélo de randonnée HL - bleu 54,601.7437,TRUE,Blue,500,375,1003.91,54,54-58 CM,3.04,1,T ,602.346,H ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+504,FR-T67U-58,16,LB ,CM ,LL Touring Frame - Blue 58,Cuadro de paseo GB: azul 58,Cadre de vélo de randonnée LL - bleu 58,199.8519,TRUE,Blue,500,375,333.42,58,54-58 CM,3.16,1,T ,200.052,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+502,FR-T67U-50,16,LB ,CM ,LL Touring Frame - Blue 50,Cuadro de paseo GB: azul 50,Cadre de vélo de randonnée LL - bleu 50,199.8519,TRUE,Blue,500,375,333.42,50,48-52 CM,3.1,1,T ,200.052,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+21,FH-2981,,,,Freewheel,,,,FALSE,Silver,500,375,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+532,FR-M21B-44,12,LB ,CM ,LL Mountain Frame - Black 44,,,136.785,TRUE,Black,500,375,249.79,44,42-46 CM,2.96,1,M ,149.874,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+140,LR-2398,,,,Lock Ring,,,,FALSE,Silver,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+578,BK-T44U-50,3,LB ,CM ,Touring-2000 Blue 50,Paseo: 2000 azul 50,Vélo de randonnée 2000 bleu 50,755.1508,TRUE,Blue,100,75,1214.85,50,48-52 CM,27.42,4,T ,728.91,M ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+503,FR-T67U-54,16,LB ,CM ,LL Touring Frame - Blue 54,Cuadro de paseo GB: azul 54,Cadre de vélo de randonnée LL - bleu 54,199.8519,TRUE,Blue,500,375,333.42,54,54-58 CM,3.14,1,T ,200.052,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+553,HB-T721,4,,,LL Touring Handlebars,Manillar de paseo GB,Poignées de vélo de randonnée LL,20.464,TRUE,NA,500,375,46.09,,NA,,1,T ,27.654,L ,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+552,FD-2342,9,G  ,,Front Derailleur,Desviador delantero,Dérailleur avant,40.6216,TRUE,Silver,500,375,91.49,,NA,88,1,,54.894,,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+508,FR-T67Y-54,16,LB ,CM ,LL Touring Frame - Yellow 54,Cuadro de paseo GB: amarillo 54,Cadre de vélo de randonnée LL - jaune 54,199.8519,TRUE,Yellow,500,375,333.42,54,54-58 CM,3.14,1,T ,200.052,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+585,BK-T18U-44,3,LB ,CM ,Touring-3000 Blue 44,Paseo: 3000 azul 44,Vélo de randonnée 3000 bleu 44,461.4448,TRUE,Blue,100,75,742.35,44,42-46 CM,28.77,4,T ,445.41,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+542,PD-M282,13,G  ,,LL Mountain Pedal,Pedal de montaña GB,Pédale de VTT LL,17.9776,TRUE,Silver/Black,500,375,40.49,,NA,218,1,M ,24.294,L ,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+8,CA-7457,,,,HL Crankarm,,,,FALSE,Black,500,375,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+37,GT-2908,,,,HL Grip Tape,,,,FALSE,NA,800,600,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+528,TT-M928,37,,,Mountain Tire Tube,Cubierta para cámara de montaña,Chambre à air de VTT,1.8663,TRUE,NA,500,375,4.99,,NA,,0,M ,2.994,,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+3,BE-2349,,,,BB Ball Bearing,,,,FALSE,NA,800,600,,,NA,,1,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+600,BK-M18B-52,1,LB ,CM ,Mountain-500 Black 52,Montaña: 500 negra 52,VTT 500 noir 52,294.5797,TRUE,Black,100,75,539.99,52,48-52 CM,28.68,4,M ,323.994,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+527,FR-M21S-52,12,LB ,CM ,LL Mountain Frame - Silver 52,,,144.5938,TRUE,Silver,500,375,264.05,52,48-52 CM,3.04,1,M ,158.43,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+538,TI-R092,37,,,LL Road Tire,Cubierta de carretera GB,Pneu de vélo de route LL,8.0373,TRUE,NA,500,375,21.49,,NA,,0,R ,12.894,L ,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+536,TI-M602,37,,,ML Mountain Tire,Cubierta de montaña GM,Pneu de VTT ML,11.2163,TRUE,NA,500,375,29.99,,NA,,0,M ,17.994,M ,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+533,FR-M21B-48,12,LB ,CM ,LL Mountain Frame - Black 48,,,136.785,TRUE,Black,500,375,249.79,48,48-52 CM,3,1,M ,149.874,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+541,TI-T723,37,,,Touring Tire,Cubierta de paseo,Pneu de vélo de randonnée,10.8423,TRUE,NA,500,375,28.99,,NA,,0,T ,17.394,,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+540,TI-R982,37,,,HL Road Tire,Cubierta de carretera GA,Pneu de vélo de route HL,12.1924,TRUE,NA,500,375,32.6,,NA,,0,R ,19.56,H ,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+66,HN-5161,,,,Hex Nut 10,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+169,NI-4127,,,,LL Nipple,,,,FALSE,NA,1000,750,,,NA,,0,,,L ,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+539,TI-R628,37,,,ML Road Tire,Cubierta de carretera GM,Pneu de vélo de route ML,9.3463,TRUE,NA,500,375,24.99,,NA,,0,R ,14.994,M ,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+545,PD-R347,13,G  ,,LL Road Pedal,Pedal de carretera GB,Pédale de vélo de route LL,17.9776,TRUE,Silver/Black,500,375,40.49,,NA,189,1,R ,24.294,L ,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+524,FR-M21S-42,12,LB ,CM ,LL Mountain Frame - Silver 42,,,144.5938,TRUE,Silver,500,375,264.05,42,42-46 CM,2.92,1,M ,158.43,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+498,FR-T98U-50,16,LB ,CM ,HL Touring Frame - Blue 50,Cuadro de paseo GA: azul 50,Cadre de vélo de randonnée HL - bleu 50,601.7437,TRUE,Blue,500,375,1003.91,50,48-52 CM,3,1,T ,602.346,H ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+18,EC-R098,,,,Road End Caps,,,,FALSE,NA,1000,750,,,NA,,1,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+1,AR-5381,,,,Adjustable Race,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+583,BK-R79Y-48,2,LB ,CM ,Road-350-W Yellow 48,Carretera: 350 para mujer amarilla 48,Vélo de route 350 -W - jaune 48,1082.51,TRUE,Yellow,100,75,1700.99,48,48-52 CM,16.42,4,R ,1020.594,M ,W ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+106,LJ-3416,,,,Thin-Jam Lock Nut 16,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+35,GT-0820,,,,LL Grip Tape,,,,FALSE,NA,800,600,,,NA,,0,,,L ,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+555,FB-9873,6,G  ,,Front Brakes,Frenos delanteros,Freins avant,47.286,TRUE,Silver,500,375,106.5,,NA,317,1,,63.9,,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+597,BK-M18B-42,1,LB ,CM ,Mountain-500 Black 42,Montaña: 500 negra 42,VTT 500 noir 42,294.5797,TRUE,Black,100,75,539.99,42,42-46 CM,27.77,4,M ,323.994,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+566,BK-T18U-58,3,LB ,CM ,Touring-3000 Blue 58,Paseo: 3000 azul 58,Vélo de randonnée 3000 bleu 58,461.4448,TRUE,Blue,100,75,742.35,58,54-58 CM,29.9,4,T ,445.41,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+574,BK-T79U-50,3,LB ,CM ,Touring-1000 Blue 50,Paseo: 1000 azul 50,Vélo de randonnée 1000 bleu 50,1481.9379,TRUE,Blue,100,75,2384.07,50,48-52 CM,25.42,4,T ,1430.442,H ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+593,BK-M18S-44,1,LB ,CM ,Mountain-500 Silver 44,Montaña: 500 plateada 44,VTT 500 argent 44,308.2179,TRUE,Silver,100,75,564.99,44,42-46 CM,28.13,4,M ,338.994,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+589,BK-M38S-42,1,LB ,CM ,Mountain-400-W Silver 42,Montaña: 400 para mujer plateada 42,VTT 400 -W argent 42,419.7784,TRUE,Silver,100,75,769.49,42,42-46 CM,27.13,4,M ,461.694,M ,W ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+543,PD-M340,13,G  ,,ML Mountain Pedal,Pedal de montaña GM,Pédale de VTT ML,27.568,TRUE,Silver/Black,500,375,62.09,,NA,215,1,M ,37.254,M ,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+556,CS-4759,8,G  ,,LL Crankset,Bielas GB,Pédalier LL,77.9176,TRUE,Black,500,375,175.49,,NA,600,1,,105.294,L ,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+76,HN-9168,,,,Hex Nut 19,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+5,BL-2036,,,,Blade,,,,FALSE,NA,800,600,,,NA,,1,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+2,BA-8327,,,,Bearing Ball,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+30,FW-9160,,,,Flat Washer 7,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+60,HN-1428,,,,Hex Nut 9,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+32,FC-3982,,,,Front Derailleur Cage,,,,FALSE,Silver,800,600,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+576,BK-T79U-60,3,LB ,CM ,Touring-1000 Blue 60,Paseo: 1000 azul 60,Vélo de randonnée 1000 bleu 60,1481.9379,TRUE,Blue,100,75,2384.07,60,60-62 CM,25.9,4,T ,1430.442,H ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+592,BK-M18S-42,1,LB ,CM ,Mountain-500 Silver 42,Montaña: 500 plateada 42,VTT 500 argent 42,308.2179,TRUE,Silver,100,75,564.99,42,42-46 CM,27.77,4,M ,338.994,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+579,BK-T44U-54,3,LB ,CM ,Touring-2000 Blue 54,Paseo: 2000 azul 54,Vélo de randonnée 2000 bleu 54,755.1508,TRUE,Blue,100,75,1214.85,54,54-58 CM,27.68,4,T ,728.91,M ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+127,LN-3824,,,,Lock Nut 13,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+14,DC-8732,,,,Decal 1,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+41,HJ-1428,,,,Thin-Jam Hex Nut 2,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+261,FR-R38B-62,14,LB ,CM ,LL Road Frame - Black 62,Cuadro de carretera GB: negro 62,Cadre de vélo de route LL - noir 62,204.6251,TRUE,Black,500,375,337.22,62,60-62 CM,2.5,1,R ,202.332,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+117,LN-1024,,,,Lock Nut 5,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+28,FW-5800,,,,Flat Washer 8,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+150,LW-5800,,,,Lock Washer 12,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+64,HN-3824,,,,Hex Nut 13,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+549,FR-M63S-38,12,LB ,CM ,ML Mountain Frame-W - Silver 38,,,199.3757,TRUE,Silver,500,375,364.09,38,38-40 CM,2.73,2,M ,218.454,M ,W ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+537,TI-M823,37,,,HL Mountain Tire,Cubierta de montaña GA,Pneu de VTT HL,13.09,TRUE,NA,500,375,35,,NA,,0,M ,21,H ,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+535,TI-M267,37,,,LL Mountain Tire,Cubierta de montaña GB,Pneu de VTT LL,9.3463,TRUE,NA,500,375,24.99,,NA,,0,M ,14.994,L ,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+31,FC-3654,,,,Fork Crown,,,,FALSE,NA,800,600,,,NA,,1,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+577,BK-T44U-46,3,LB ,CM ,Touring-2000 Blue 46,Paseo: 2000 azul 46,Vélo de randonnée 2000 bleu 46,755.1508,TRUE,Blue,100,75,1214.85,46,42-46 CM,27.13,4,T ,728.91,M ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+453,SH-M897-M,22,,,Men's Sports Shorts M,Pantalones cortos de deporte para hombre M,Cuissards de route pour hommes taille M,24.7459,TRUE,Black,4,3,59.99,M,M,,0,S ,35.994,,M ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+580,BK-R79Y-40,2,LB ,CM ,Road-350-W Yellow 40,Carretera: 350 para mujer amarilla 40,Vélo de route 350 -W - jaune 40,1082.51,TRUE,Yellow,100,75,1700.99,40,38-40 CM,15.35,4,R ,1020.594,M ,W ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+599,BK-M18B-48,1,LB ,CM ,Mountain-500 Black 48,Montaña: 500 negra 48,VTT 500 noir 48,294.5797,TRUE,Black,100,75,539.99,48,48-52 CM,28.42,4,M ,323.994,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+573,BK-T79U-46,3,LB ,CM ,Touring-1000 Blue 46,Paseo: 1000 azul 46,Vélo de randonnée 1000 bleu 46,1481.9379,TRUE,Blue,100,75,2384.07,46,42-46 CM,25.13,4,T ,1430.442,H ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+606,BK-R19B-52,2,LB ,CM ,Road-750 Black 52,Carretera: 750 negra 52,Vélo de route 750 noir 52,343.6496,TRUE,Black,100,75,539.99,52,48-52 CM,20.42,4,R ,323.994,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+550,FR-M21B-40,12,LB ,CM ,LL Mountain Frame - Black 40,,,136.785,TRUE,Black,500,375,249.79,40,38-40 CM,2.88,2,M ,149.874,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+7,CA-6738,,,,ML Crankarm,,,,FALSE,Black,500,375,,,NA,,0,,,M ,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+9,CB-2903,,,,Chainring Bolts,,,,FALSE,Silver,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+22,FW-1000,,,,Flat Washer 1,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+59,HN-1420,,,,Hex Nut 8,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+565,BK-T18U-54,3,LB ,CM ,Touring-3000 Blue 54,Paseo: 3000 azul 54,Vélo de randonnée 3000 bleu 54,461.4448,TRUE,Blue,100,75,742.35,54,54-58 CM,29.68,4,T ,445.41,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+72,HN-7161,,,,Hex Nut 14,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+51,HJ-7162,,,,Thin-Jam Hex Nut 8,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+12,CR-9981,,,,Crown Race,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+551,FR-M21S-40,12,LB ,CM ,LL Mountain Frame - Silver 40,,,144.5938,TRUE,Silver,500,375,264.05,40,38-40 CM,2.88,2,M ,158.43,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+302,FR-M94B-46,12,LB ,CM ,HL Mountain Frame - Black 46,,,653.6971,TRUE,Black,500,375,1226.9091,46,42-46 CM,2.84,1,M ,736.1455,H ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+572,BK-T18Y-62,3,LB ,CM ,Touring-3000 Yellow 62,Paseo: 3000 amarilla 62,Vélo de randonnée 3000 jaune 62,461.4448,TRUE,Yellow,100,75,742.35,62,60-62 CM,30,4,T ,445.41,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+568,BK-T18Y-44,3,LB ,CM ,Touring-3000 Yellow 44,Paseo: 3000 amarilla 44,Vélo de randonnée 3000 jaune 44,461.4448,TRUE,Yellow,100,75,742.35,44,42-46 CM,28.77,4,T ,445.41,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+557,CS-6583,8,G  ,,ML Crankset,Bielas GM,Pédalier ML,113.8816,TRUE,Black,500,375,256.49,,NA,635,1,,153.894,M ,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+182,RM-M823,,G  ,,HL Mountain Rim,,,,FALSE,NA,800,600,,,NA,400,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+297,FR-M94B-42,12,LB ,CM ,HL Mountain Frame - Black 42,,,653.6971,TRUE,Black,500,375,1226.9091,42,42-46 CM,2.72,1,M ,736.1455,H ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+6,CA-5965,,,,LL Crankarm,,,,FALSE,Black,500,375,,,NA,,0,,,L ,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+11,CR-7833,,,,Chainring,,,,FALSE,Black,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+561,BK-T79Y-46,3,LB ,CM ,Touring-1000 Yellow 46,Paseo: 1000 amarilla 46,Vélo de randonnée 1000 jaune 46,1481.9379,TRUE,Yellow,100,75,2384.07,46,42-46 CM,25.13,4,T ,1430.442,H ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+525,FR-M21S-44,12,LB ,CM ,LL Mountain Frame - Silver 44,,,144.5938,TRUE,Silver,500,375,264.05,44,42-46 CM,2.96,1,M ,158.43,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+47,HJ-5162,,,,Thin-Jam Hex Nut 4,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+111,LJ-5811,,,,Thin-Jam Lock Nut 13,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+86,LE-3800,,,,External Lock Washer 7,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+183,RM-R436,,G  ,,LL Road Rim,,,,FALSE,NA,800,600,,,NA,445,0,,,L ,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+85,LE-1400,,,,External Lock Washer 5,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+581,BK-R79Y-42,2,LB ,CM ,Road-350-W Yellow 42,Carretera: 350 para mujer amarilla 42,Vélo de route 350 -W - jaune 42,1082.51,TRUE,Yellow,100,75,1700.99,42,42-46 CM,15.77,4,R ,1020.594,M ,W ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+15,DC-9824,,,,Decal 2,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+43,HJ-3416,,,,Thin-Jam Hex Nut 16,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+584,BK-R19B-58,2,LB ,CM ,Road-750 Black 58,Carretera: 750 negra 58,Vélo de route 750 noir 58,343.6496,TRUE,Black,100,75,539.99,58,54-58 CM,20.79,4,R ,323.994,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+131,LN-5400,,,,Lock Nut 2,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+17,EC-M092,,,,Mountain End Caps,,,,FALSE,NA,1000,750,,,NA,,1,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+582,BK-R79Y-44,2,LB ,CM ,Road-350-W Yellow 44,Carretera: 350 para mujer amarilla 44,Vélo de route 350 -W - jaune 44,1082.51,TRUE,Yellow,100,75,1700.99,44,42-46 CM,16.13,4,R ,1020.594,M ,W ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+564,BK-T79Y-60,3,LB ,CM ,Touring-1000 Yellow 60,Paseo: 1000 amarilla 60,Vélo de randonnée 1000 jaune 60,1481.9379,TRUE,Yellow,100,75,2384.07,60,60-62 CM,25.9,4,T ,1430.442,H ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+84,LE-1201,,,,External Lock Washer 9,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+38,HJ-1213,,,,Thin-Jam Hex Nut 9,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+53,HJ-9161,,,,Thin-Jam Hex Nut 11,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+61,HN-3410,,,,Hex Nut 22,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+194,SA-T612,,,,ML Touring Seat Assembly,,,,FALSE,NA,500,375,,,NA,,1,,,M ,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+103,LJ-1420,,,,Thin-Jam Lock Nut 1,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+596,BK-M18B-40,1,LB ,CM ,Mountain-500 Black 40,Montaña: 500 negra 40,VTT 500 noir 40,294.5797,TRUE,Black,100,75,539.99,40,38-40 CM,27.35,4,M ,323.994,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+20,FE-3760,,,,Fork End,,,,FALSE,NA,800,600,,,NA,,1,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+603,BB-9108,5,G  ,,HL Bottom Bracket,Eje de pedalier GA,Axe de pédalier HL,53.9416,TRUE,NA,500,375,121.49,,NA,170,1,,72.894,H ,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+222,HL-U509-B,31,,,Sport-100 Helmet Blue,Casco deportivo: 100 azul,Casque sport 100 bleu,13.0863,TRUE,Blue,4,3,34.99,,NA,,0,S ,20.994,,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+16,DT-2377,,,,Down Tube,,,,FALSE,NA,800,600,,,NA,,1,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+449,PU-M044,36,,,Mountain Pump,Bomba de montaña,Pompe de VTT,10.3084,TRUE,NA,4,3,24.99,,NA,,0,M ,14.994,,,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+288,FR-M94S-42,12,LB ,CM ,HL Mountain Frame - Silver 42,,,623.8403,TRUE,Silver,500,375,1204.3248,42,42-46 CM,2.72,1,M ,722.5949,H ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+210,FR-R92B-58,14,LB ,CM ,HL Road Frame - Black 58,,,,TRUE,Black,500,375,,58,54-58 CM,2.24,1,R ,,H ,U ,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+187,SA-M198,,,,LL Mountain Seat Assembly,,,,FALSE,NA,500,375,,,NA,,1,,,L ,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+156,MB-2024,,,,Metal Bar 1,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+88,LE-6000,,,,External Lock Washer 1,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+601,BB-7421,5,G  ,,LL Bottom Bracket,Eje de pedalier GB,Axe de pédalier LL,23.9716,TRUE,NA,500,375,53.99,,NA,223,1,,32.394,L ,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+558,CS-9183,8,G  ,,HL Crankset,Bielas GA,Pédalier HL,179.8156,TRUE,Black,500,375,404.99,,NA,575,1,,242.994,H ,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+83,LE-1200,,,,External Lock Washer 4,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+94,LI-1400,,,,Internal Lock Washer 5,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+595,BK-M18S-52,1,LB ,CM ,Mountain-500 Silver 52,Montaña: 500 plateada 52,VTT 500 argent 52,308.2179,TRUE,Silver,100,75,564.99,52,48-52 CM,28.68,4,M ,338.994,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+457,TG-W091-M,24,,,Women's Tights M,Mallas para mujer M,Collants pour femmes taille M,30.9334,TRUE,Black,4,3,74.99,M,M,,0,S ,44.994,,W ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+24,FW-1400,,,,Flat Washer 2,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+605,BK-R19B-48,2,LB ,CM ,Road-750 Black 48,Carretera: 750 negra 48,Vélo de route 750 noir 48,343.6496,TRUE,Black,100,75,539.99,48,48-52 CM,20.13,4,R ,323.994,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+23,FW-1200,,,,Flat Washer 6,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+81,KW-4091,,,,Keyed Washer,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+55,HN-1032,,,,Hex Nut 6,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+105,LJ-3410,,,,Thin-Jam Lock Nut 15,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+62,HN-3416,,,,Hex Nut 23,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+73,HN-7162,,,,Hex Nut 15,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+95,LI-3800,,,,Internal Lock Washer 7,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+40,HJ-1420,,,,Thin-Jam Hex Nut 1,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+92,LI-1200,,,,Internal Lock Washer 4,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+128,LN-4400,,,,Lock Nut 1,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+142,LW-1000,,,,Lock Washer 4,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+563,BK-T79Y-54,3,LB ,CM ,Touring-1000 Yellow 54,Paseo: 1000 amarilla 54,Vélo de randonnée 1000 jaune 54,1481.9379,TRUE,Yellow,100,75,2384.07,54,54-58 CM,25.68,4,T ,1430.442,H ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+367,BK-M47B-48,1,LB ,CM ,Mountain-300 Black 48,Montaña: 300 negra 48,VTT 300 noir 48,598.4354,TRUE,Black,100,75,1079.99,48,48-52 CM,26.42,4,M ,647.994,M ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+87,LE-5160,,,,External Lock Washer 6,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+71,HN-6320,,,,Hex Nut 3,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+48,HJ-5811,,,,Thin-Jam Hex Nut 13,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+239,FR-R92R-62,14,LB ,CM ,HL Road Frame - Red 62,Cuadro de carretera GA: rojo 62,Cadre de vélo de route HL - rouge 62,722.2568,TRUE,Red,500,375,1301.3636,62,60-62 CM,2.3,1,R ,780.8182,H ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+315,BK-R68R-58,2,LB ,CM ,Road-450 Red 58,Carretera: 450 roja 58,Vélo de route 450 rouge 58,884.7083,TRUE,Red,100,75,1457.99,58,54-58 CM,17.79,4,R ,874.794,M ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+49,HJ-5818,,,,Thin-Jam Hex Nut 14,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+70,HN-5818,,,,Hex Nut 21,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+567,BK-T18U-62,3,LB ,CM ,Touring-3000 Blue 62,Paseo: 3000 azul 62,Vélo de randonnée 3000 bleu 62,461.4448,TRUE,Blue,100,75,742.35,62,60-62 CM,30,4,T ,445.41,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+560,BK-T44U-60,3,LB ,CM ,Touring-2000 Blue 60,Paseo: 2000 azul 60,Vélo de randonnée 2000 bleu 60,755.1508,TRUE,Blue,100,75,1214.85,60,60-62 CM,27.9,4,T ,728.91,M ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+154,LW-9160,,,,Lock Washer 11,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+265,FR-R38R-48,14,LB ,CM ,LL Road Frame - Red 48,Cuadro de carretera GB: rojo 48,Cadre de vélo de route LL - rouge 48,187.1571,TRUE,Red,500,375,337.22,48,48-52 CM,2.36,1,R ,202.332,L ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+216,HL-U509,31,,,Sport-100 Helmet Black,Casco deportivo: 100 negro,Casque sport 100 noir,13.8782,TRUE,Black,4,3,33.6442,,NA,,0,S ,20.1865,,,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+193,SA-T467,,,,LL Touring Seat Assembly,,,,FALSE,NA,500,375,,,NA,,1,,,L ,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+197,SD-9872,,,,HL Spindle/Axle,,,,FALSE,NA,500,375,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+591,BK-M18S-40,1,LB ,CM ,Mountain-500 Silver 40,Montaña: 500 plateada 40,VTT 500 argent 40,308.2179,TRUE,Silver,100,75,564.99,40,38-40 CM,27.35,4,M ,338.994,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+56,HN-1213,,,,Hex Nut 16,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+79,HU-6280,,,,LL Hub,,,,FALSE,NA,500,375,,,NA,,1,,,L ,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+598,BK-M18B-44,1,LB ,CM ,Mountain-500 Black 44,Montaña: 500 negra 44,VTT 500 noir 44,294.5797,TRUE,Black,100,75,539.99,44,42-46 CM,28.13,4,M ,323.994,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+151,LW-6000,,,,Lock Washer 2,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+42,HJ-3410,,,,Thin-Jam Hex Nut 15,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+39,HJ-1220,,,,Thin-Jam Hex Nut 10,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+75,HN-9161,,,,Hex Nut 18,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+143,LW-1200,,,,Lock Washer 5,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+107,LJ-3816,,,,Thin-Jam Lock Nut 5,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+96,LI-5160,,,,Internal Lock Washer 6,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+124,LN-3410,,,,Lock Nut 22,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+415,FW-R820,17,G  ,,HL Road Front Wheel,Rueda de carretera delantera GA,Roue avant de vélo de route HL,146.5466,TRUE,Black,500,375,330.06,,NA,650,1,R ,198.036,H ,,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+121,LN-1224,,,,Lock Nut 7,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+26,FW-3800,,,,Flat Washer 4,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+65,HN-4402,,,,Hex Nut 1,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+58,HN-1224,,,,Hex Nut 7,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+227,LJ-0192-S,21,,,Long-Sleeve Logo Jersey S,Jersey con logotipo de manga larga P,Maillot manches longues avec logo taille S,29.0807,TRUE,Multi,4,3,48.0673,S,S,,0,S ,28.8404,,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+33,FL-2301,,,,Front Derailleur Linkage,,,,FALSE,Silver,800,600,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+328,BK-R50R-48,2,LB ,CM ,Road-650 Red 48,Carretera: 650 roja 48,Vélo de route 650 rouge 48,413.1463,TRUE,Red,100,75,699.0982,48,48-52 CM,19.13,4,R ,419.4589,L ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+212,HL-U509-R,31,,,Sport-100 Helmet Red,Casco deportivo: 100 rojo,Casque sport 100 rouge,12.0278,TRUE,Red,4,3,33.6442,,NA,,0,S ,20.1865,,,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+189,SA-M687,,,,HL Mountain Seat Assembly,,,,FALSE,NA,500,375,,,NA,,1,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+179,RF-9198,,,,Reflector,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+99,LI-7160,,,,Internal Lock Washer 8,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+29,FW-7160,,,,Flat Washer 5,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+586,BK-T18U-50,3,LB ,CM ,Touring-3000 Blue 50,Paseo: 3000 azul 50,Vélo de randonnée 3000 bleu 50,461.4448,TRUE,Blue,100,75,742.35,50,48-52 CM,29.13,4,T ,445.41,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+104,LJ-1428,,,,Thin-Jam Lock Nut 2,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+160,MP-4960,,,,Metal Plate 3,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+44,HJ-3816,,,,Thin-Jam Hex Nut 5,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+463,GL-H102-S,20,,,Half-Finger Gloves S,,,9.1593,TRUE,Black,4,3,24.49,S,S,,0,S ,14.694,,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+260,FR-R38B-62,14,LB ,CM ,LL Road Frame - Black 62,Cuadro de carretera GB: negro 62,Cadre de vélo de route LL - noir 62,170.1428,TRUE,Black,500,375,306.5636,62,60-62 CM,2.5,1,R ,183.9382,L ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+13,CS-2812,,,,Chain Stays,,,,FALSE,NA,1000,750,,,NA,,1,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+50,HJ-7161,,,,Thin-Jam Hex Nut 7,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+116,LJ-9161,,,,Thin-Jam Lock Nut 11,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+98,LI-6000,,,,Internal Lock Washer 1,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+123,LN-1428,,,,Lock Nut 9,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+68,HN-5400,,,,Hex Nut 2,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+268,FR-R38R-58,14,LB ,CM ,LL Road Frame - Red 58,Cuadro de carretera GB: rojo 58,Cadre de vélo de route LL - rouge 58,181.4857,TRUE,Red,500,375,306.5636,58,54-58 CM,2.46,1,R ,183.9382,L ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+161,MS-0253,,,,Metal Sheet 2,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+54,HN-1024,,,,Hex Nut 5,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+139,LN-9161,,,,Lock Nut 18,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+138,LN-9080,,,,Lock Nut 19,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+167,MS-6061,,,,Metal Sheet 1,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+569,BK-T18Y-50,3,LB ,CM ,Touring-3000 Yellow 50,Paseo: 3000 amarilla 50,Vélo de randonnée 3000 jaune 50,461.4448,TRUE,Yellow,100,75,742.35,50,48-52 CM,29.13,4,T ,445.41,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+387,BK-R64Y-44,2,LB ,CM ,Road-550-W Yellow 44,Carretera: 550 para mujer amarilla 44,Vélo de route 550 -W - jaune 44,605.6492,TRUE,Yellow,100,75,1000.4375,44,42-46 CM,18.42,4,R ,600.2625,M ,W ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+91,LI-1000,,,,Internal Lock Washer 3,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+89,LE-7160,,,,External Lock Washer 8,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+397,HB-M243,4,,,LL Mountain Handlebars,,,17.978,TRUE,NA,500,375,40.4909,,NA,,1,M ,24.2945,L ,,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+267,FR-R38R-52,14,LB ,CM ,LL Road Frame - Red 52,Cuadro de carretera GB: rojo 52,Cadre de vélo de route LL - rouge 52,187.1571,TRUE,Red,500,375,337.22,52,48-52 CM,2.4,1,R ,202.332,L ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+548,PD-T852,13,,,Touring Pedal,Pedal de paseo,Pédale de vélo de randonnée,35.9596,TRUE,Silver/Black,500,375,80.99,,NA,,1,T ,48.594,,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+118,LN-1032,,,,Lock Nut 6,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+170,NI-9522,,,,HL Nipple,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+587,BK-M38S-38,1,LB ,CM ,Mountain-400-W Silver 38,Montaña: 400 para mujer plateada 38,VTT 400 -W argent 38,419.7784,TRUE,Silver,100,75,769.49,38,38-40 CM,26.35,4,M ,461.694,M ,W ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+4,BE-2908,,,,Headset Ball Bearings,,,,FALSE,NA,800,600,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+221,HL-U509-B,31,,,Sport-100 Helmet Blue,Casco deportivo: 100 azul,Casque sport 100 bleu,13.8782,TRUE,Blue,4,3,33.6442,,NA,,0,S ,20.1865,,,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+371,BK-R89R-58,2,LB ,CM ,Road-250 Red 58,Carretera: 250 roja 58,Vélo de route 250 rouge 58,1320.6838,TRUE,Red,100,75,2181.5625,58,54-58 CM,15.79,4,R ,1308.9375,H ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+233,LJ-0192-L,21,,,Long-Sleeve Logo Jersey L,Jersey con logotipo de manga larga G,Maillot manches longues avec logo taille L,29.0807,TRUE,Multi,4,3,48.0673,L,L,,0,S ,28.8404,,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+228,LJ-0192-S,21,,,Long-Sleeve Logo Jersey S,Jersey con logotipo de manga larga P,Maillot manches longues avec logo taille S,38.4923,TRUE,Multi,4,3,49.99,S,S,,0,S ,29.994,,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+270,FR-R38R-60,14,LB ,CM ,LL Road Frame - Red 60,Cuadro de carretera GB: rojo 60,Cadre de vélo de route LL - rouge 60,181.4857,TRUE,Red,500,375,306.5636,60,60-62 CM,2.48,1,R ,183.9382,L ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+25,FW-3400,,,,Flat Washer 9,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+162,MS-1256,,,,Metal Sheet 3,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+114,LJ-7162,,,,Thin-Jam Lock Nut 8,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+110,LJ-5162,,,,Thin-Jam Lock Nut 4,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+184,RM-R600,,G  ,,ML Road Rim,,,,FALSE,NA,800,600,,,NA,450,0,,,M ,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+147,LW-3800,,,,Lock Washer 8,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+45,HJ-3824,,,,Thin-Jam Hex Nut 6,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+77,HT-2981,,,,Handlebar Tube,,,,FALSE,NA,800,600,,,NA,,1,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+180,RM-M464,,G  ,,LL Mountain Rim,,,,FALSE,NA,800,600,,,NA,435,0,,,L ,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+109,LJ-5161,,,,Thin-Jam Lock Nut 3,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+158,MP-2066,,,,Metal Plate 2,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+144,LW-1201,,,,Lock Washer 10,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+235,LJ-0192-X,21,,,Long-Sleeve Logo Jersey XL,Jersey con logotipo de manga larga SG,Maillot manches longues avec logo taille XL,31.7244,TRUE,Multi,4,3,48.0673,XL,XL,,0,S ,28.8404,,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+176,PB-6109,,,,Pinch Bolt,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+63,HN-3816,,,,Hex Nut 12,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+130,LN-5162,,,,Lock Nut 11,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+218,SO-B909-M,23,,,Mountain Bike Socks M,Calcetines para bicicleta de montaña M,Chaussettes de VTT taille M,3.3963,TRUE,White,4,3,9.5,M,M,,0,M ,5.7,,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+452,LT-H903,33,,,Headlights - Weatherproof,Luces: resistentes al agua,Feu avant étanche,18.5584,TRUE,NA,4,3,44.99,,NA,,0,R ,26.994,,,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+108,LJ-3824,,,,Thin-Jam Lock Nut 6,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+359,BK-M68B-38,1,LB ,CM ,Mountain-200 Black 38,Montaña: 200 negra 38,VTT 200 noir 38,1251.9813,TRUE,Black,100,75,2294.99,38,38-40 CM,23.35,4,M ,1376.994,H ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+411,FW-M762,17,,,ML Mountain Front Wheel,,,92.8071,TRUE,Black,500,375,209.025,,NA,,1,M ,125.415,M ,,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+423,RW-R762,17,G  ,,ML Road Rear Wheel,Rueda de carretera trasera GM,Roue arrière de vélo de route ML,122.2709,TRUE,Black,500,375,275.385,,NA,1000,1,R ,165.231,M ,,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+201,SL-0931,,,,Seat Lug,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+101,LJ-1213,,,,Thin-Jam Lock Nut 9,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+80,HU-8998,,,,HL Hub,,,,FALSE,NA,500,375,,,NA,,1,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+69,HN-5811,,,,Hex Nut 20,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+112,LJ-5818,,,,Thin-Jam Lock Nut 14,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+208,TP-0923,,,,Tension Pulley,,,,FALSE,NA,800,600,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+517,SE-M940,15,,,HL Mountain Seat/Saddle,,,23.3722,TRUE,NA,500,375,52.64,,NA,,1,M ,31.584,H ,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+36,GT-1209,,,,ML Grip Tape,,,,FALSE,NA,800,600,,,NA,,0,,,M ,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+141,LR-8520,,,,Lower Head Race,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+165,MS-2341,,,,Metal Sheet 5,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+181,RM-M692,,G  ,,ML Mountain Rim,,,,FALSE,NA,800,600,,,NA,450,0,,,M ,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+125,LN-3416,,,,Lock Nut 23,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+115,LJ-9080,,,,Thin-Jam Lock Nut 12,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+303,FR-M94B-46,12,LB ,CM ,HL Mountain Frame - Black 46,,,739.041,TRUE,Black,500,375,1349.6,46,42-46 CM,2.84,1,M ,809.76,H ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+195,SA-T872,,,,HL Touring Seat Assembly,,,,FALSE,NA,500,375,,,NA,,1,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+155,MA-7075,,,,Metal Angle,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+202,SM-9087,,,,Stem,,,,FALSE,NA,500,375,,,NA,,1,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+163,MS-1981,,,,Metal Sheet 7,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+173,PA-529S,,,,Paint - Silver,,,,FALSE,NA,60,45,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+575,BK-T79U-54,3,LB ,CM ,Touring-1000 Blue 54,Paseo: 1000 azul 54,Vélo de randonnée 1000 bleu 54,1481.9379,TRUE,Blue,100,75,2384.07,54,54-58 CM,25.68,4,T ,1430.442,H ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+205,SS-2985,,,,Seat Stays,,,,FALSE,NA,800,600,,,NA,,1,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+100,LI-8000,,,,Internal Lock Washer 2,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+249,FR-R92R-52,14,LB ,CM ,HL Road Frame - Red 52,Cuadro de carretera GA: rojo 52,Cadre de vélo de route HL - rouge 52,868.6342,TRUE,Red,500,375,1431.5,52,48-52 CM,2.2,1,R ,858.9,H ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+401,HB-M918,4,,,HL Mountain Handlebars,,,48.5453,TRUE,NA,500,375,109.3364,,NA,,1,M ,65.6018,H ,,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+230,LJ-0192-M,21,,,Long-Sleeve Logo Jersey M,Jersey con logotipo de manga larga M,Maillot manches longues avec logo taille M,29.0807,TRUE,Multi,4,3,48.0673,M,M,,0,S ,28.8404,,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+424,RW-R820,17,G  ,,HL Road Rear Wheel,Rueda de carretera trasera GA,Roue arrière de vélo de route HL,158.5346,TRUE,Black,500,375,357.06,,NA,890,1,R ,214.236,H ,,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+27,FW-5160,,,,Flat Washer 3,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+57,HN-1220,,,,Hex Nut 17,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+236,LJ-0192-X,21,,,Long-Sleeve Logo Jersey XL,Jersey con logotipo de manga larga SG,Maillot manches longues avec logo taille XL,29.0807,TRUE,Multi,4,3,48.0673,XL,XL,,0,S ,28.8404,,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+391,FK-1639,10,,,LL Fork,Horquilla GB,Fourche LL,65.8097,TRUE,NA,500,375,148.22,,NA,,1,,88.932,L ,,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+263,FR-R38R-44,14,LB ,CM ,LL Road Frame - Red 44,Cuadro de carretera GB: rojo 44,Cadre de vélo de route LL - rouge 44,187.1571,TRUE,Red,500,375,337.22,44,42-46 CM,2.32,1,R ,202.332,L ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+262,FR-R38R-44,14,LB ,CM ,LL Road Frame - Red 44,Cuadro de carretera GB: rojo 44,Cadre de vélo de route LL - rouge 44,181.4857,TRUE,Red,500,375,306.5636,44,42-46 CM,2.32,1,R ,183.9382,L ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+295,FR-M94S-46,12,LB ,CM ,HL Mountain Frame - Silver 46,,,747.2002,TRUE,Silver,500,375,1364.5,46,42-46 CM,2.84,1,M ,818.7,H ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+46,HJ-5161,,,,Thin-Jam Hex Nut 3,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+186,RM-T801,,G  ,,Touring Rim,,,,FALSE,NA,800,600,,,NA,460,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+217,HL-U509,31,,,Sport-100 Helmet Black,Casco deportivo: 100 negro,Casque sport 100 noir,13.0863,TRUE,Black,4,3,34.99,,NA,,0,S ,20.994,,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+136,LN-7162,,,,Lock Nut 15,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+190,SA-R127,,,,LL Road Seat Assembly,,,,FALSE,NA,500,375,,,NA,,1,,,L ,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+153,LW-8000,,,,Lock Washer 3,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+102,LJ-1220,,,,Thin-Jam Lock Nut 10,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+191,SA-R430,,,,ML Road Seat Assembly,,,,FALSE,NA,500,375,,,NA,,1,,,M ,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+206,ST-9828,,,,Seat Tube,,,,FALSE,NA,500,375,,,NA,,1,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+174,PA-632U,,,,Paint - Blue,,,,FALSE,NA,60,45,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+203,SP-2981,,,,Seat Post,,,,FALSE,NA,500,375,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+185,RM-R800,,G  ,,HL Road Rim,,,,FALSE,NA,800,600,,,NA,400,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+383,BK-R64Y-40,2,LB ,CM ,Road-550-W Yellow 40,Carretera: 550 para mujer amarilla 40,Vélo de route 550 -W - jaune 40,605.6492,TRUE,Yellow,100,75,1000.4375,40,38-40 CM,17.77,4,R ,600.2625,M ,W ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+257,FR-R38B-60,14,LB ,CM ,LL Road Frame - Black 60,Cuadro de carretera GB: negro 60,Cadre de vélo de route LL - noir 60,170.1428,TRUE,Black,500,375,306.5636,60,60-62 CM,2.48,1,R ,183.9382,L ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+146,LW-3400,,,,Lock Washer 13,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+132,LN-5811,,,,Lock Nut 20,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+403,HB-R504,4,,,LL Road Handlebars,Manillar de carretera GB,Poignées de vélo de route LL,17.978,TRUE,NA,500,375,40.4909,,NA,,1,R ,24.2945,L ,,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+275,FR-R72R-48,14,LB ,CM ,ML Road Frame - Red 48,Cuadro de carretera GM: rojo 48,Cadre de vélo de route ML - rouge 48,352.1394,TRUE,Red,500,375,594.83,48,48-52 CM,2.26,1,R ,356.898,M ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+120,LN-1220,,,,Lock Nut 17,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+454,SH-M897-L,22,,,Men's Sports Shorts L,Pantalones cortos de deporte para hombre G,Cuissards de route pour hommes taille L,24.7459,TRUE,Black,4,3,59.99,L,L,,0,S ,35.994,,M ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+304,FR-M94B-38,12,LB ,CM ,HL Mountain Frame - Black 38,,,617.0281,TRUE,Black,500,375,1191.1739,38,38-40 CM,2.68,2,M ,714.7043,H ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+238,FR-R92R-62,14,LB ,CM ,HL Road Frame - Red 62,Cuadro de carretera GA: rojo 62,Cadre de vélo de route HL - rouge 62,747.9682,TRUE,Red,500,375,1263.4598,62,60-62 CM,2.3,1,R ,758.0759,H ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+414,FW-R762,17,G  ,,ML Road Front Wheel,Rueda de carretera delantera GM,Roue avant de vélo de route ML,110.2829,TRUE,Black,500,375,248.385,,NA,850,1,R ,149.031,M ,,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+172,PA-361R,,,,Paint - Red,,,,FALSE,NA,60,45,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+97,LI-5800,,,,Internal Lock Washer 10,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+93,LI-1201,,,,Internal Lock Washer 9,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+248,FR-R92R-52,14,LB ,CM ,HL Road Frame - Red 52,Cuadro de carretera GA: rojo 52,Cadre de vélo de route HL - rouge 52,722.2568,TRUE,Red,500,375,1301.3636,52,48-52 CM,2.2,1,R ,780.8182,H ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+214,HL-U509-R,31,,,Sport-100 Helmet Red,Casco deportivo: 100 rojo,Casque sport 100 rouge,13.0863,TRUE,Red,4,3,34.99,,NA,,0,S ,20.994,,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+425,RW-T905,17,,,Touring Rear Wheel,Rueda de paseo trasera,Roue arrière de vélo de randonnée,108.7844,TRUE,Black,500,375,245.01,,NA,,1,T ,147.006,,,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+74,HN-8320,,,,Hex Nut 4,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+375,BK-R89B-48,2,LB ,CM ,Road-250 Black 48,Carretera: 250 negra 48,Vélo de route 250 noir 48,1320.6838,TRUE,Black,100,75,2181.5625,48,48-52 CM,15.13,4,R ,1308.9375,H ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+291,FR-M94S-44,12,LB ,CM ,HL Mountain Frame - Silver 44,,,706.811,TRUE,Silver,500,375,1364.5,44,42-46 CM,2.76,1,M ,818.7,H ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+299,FR-M94B-44,12,LB ,CM ,HL Mountain Frame - Black 44,,,699.0928,TRUE,Black,500,375,1349.6,44,42-46 CM,2.76,1,M ,809.76,H ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+157,MB-6061,,,,Metal Bar 2,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+129,LN-5161,,,,Lock Nut 10,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+546,PD-R563,13,G  ,,ML Road Pedal,Pedal de carretera GM,Pédale de vélo de route ML,27.568,TRUE,Silver/Black,500,375,62.09,,NA,168,1,R ,37.254,M ,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+244,FR-R92R-48,14,LB ,CM ,HL Road Frame - Red 48,Cuadro de carretera GA: rojo 48,Cadre de vélo de route HL - rouge 48,747.9682,TRUE,Red,500,375,1263.4598,48,48-52 CM,2.16,1,R ,758.0759,H ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+178,RA-7490,,,,Cone-Shaped Race,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+204,SR-2098,,,,Steerer,,,,FALSE,NA,500,375,,,NA,,1,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+213,HL-U509-R,31,,,Sport-100 Helmet Red,Casco deportivo: 100 rojo,Casque sport 100 rouge,13.8782,TRUE,Red,4,3,33.6442,,NA,,0,S ,20.1865,,,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+209,RC-0291,,,,Rear Derailleur Cage,,,,FALSE,Silver,500,375,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+113,LJ-7161,,,,Thin-Jam Lock Nut 7,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+246,FR-R92R-48,14,LB ,CM ,HL Road Frame - Red 48,Cuadro de carretera GA: rojo 48,Cadre de vélo de route HL - rouge 48,868.6342,TRUE,Red,500,375,1431.5,48,48-52 CM,2.16,1,R ,858.9,H ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+122,LN-1420,,,,Lock Nut 8,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+300,FR-M94B-48,12,LB ,CM ,HL Mountain Frame - Black 48,,,699.0928,TRUE,Black,500,375,1349.6,48,48-52 CM,2.8,1,M ,809.76,H ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+281,FR-R38B-44,14,LB ,CM ,LL Road Frame - Black 44,Cuadro de carretera GB: negro 44,Cadre de vélo de route LL - noir 44,204.6251,TRUE,Black,500,375,337.22,44,42-46 CM,2.32,1,R ,202.332,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+234,LJ-0192-L,21,,,Long-Sleeve Logo Jersey L,Jersey con logotipo de manga larga G,Maillot manches longues avec logo taille L,38.4923,TRUE,Multi,4,3,49.99,L,L,,0,S ,29.994,,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+409,FR-M63B-38,12,LB ,CM ,ML Mountain Frame - Black 38,,,185.8193,TRUE,Black,500,375,348.76,38,38-40 CM,2.73,2,M ,209.256,M ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+90,LE-8000,,,,External Lock Washer 2,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+67,HN-5162,,,,Hex Nut 11,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+242,FR-R92R-44,14,LB ,CM ,HL Road Frame - Red 44,Cuadro de carretera GA: rojo 44,Cadre de vélo de route HL - rouge 44,722.2568,TRUE,Red,500,375,1301.3636,44,42-46 CM,2.12,1,R ,780.8182,H ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+369,BK-R89R-48,2,LB ,CM ,Road-250 Red 48,Carretera: 250 roja 48,Vélo de route 250 rouge 48,1518.7864,TRUE,Red,100,75,2443.35,48,48-52 CM,15.13,4,R ,1466.01,H ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+523,SE-T924,15,,,HL Touring Seat/Saddle,Sillín/asiento de paseo GA,Selle de vélo de randonnée HL,23.3722,TRUE,NA,500,375,52.64,,NA,,1,T ,31.584,H ,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+307,FR-M94S-38,12,LB ,CM ,HL Mountain Frame - Silver 38,,,623.8403,TRUE,Silver,500,375,1204.3248,38,38-40 CM,2.68,2,M ,722.5949,H ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+119,LN-1213,,,,Lock Nut 16,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+192,SA-R522,,,,HL Road Seat Assembly,,,,FALSE,NA,500,375,,,NA,,1,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+280,FR-R38B-44,14,LB ,CM ,LL Road Frame - Black 44,Cuadro de carretera GB: negro 44,Cadre de vélo de route LL - noir 44,170.1428,TRUE,Black,500,375,306.5636,44,42-46 CM,2.32,1,R ,183.9382,L ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+404,HB-R504,4,,,LL Road Handlebars,Manillar de carretera GB,Poignées de vélo de route LL,19.7758,TRUE,NA,500,375,44.54,,NA,,1,R ,26.724,L ,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+243,FR-R92R-44,14,LB ,CM ,HL Road Frame - Red 44,Cuadro de carretera GA: rojo 44,Cadre de vélo de route HL - rouge 44,868.6342,TRUE,Red,500,375,1431.5,44,42-46 CM,2.12,1,R ,858.9,H ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+198,SH-4562,,,,LL Shell,,,,FALSE,NA,800,600,,,NA,,0,,,L ,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+126,LN-3816,,,,Lock Nut 12,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+215,HL-U509,31,,,Sport-100 Helmet Black,Casco deportivo: 100 negro,Casque sport 100 noir,12.0278,TRUE,Black,4,3,33.6442,,NA,,0,S ,20.1865,,,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+220,HL-U509-B,31,,,Sport-100 Helmet Blue,Casco deportivo: 100 azul,Casque sport 100 bleu,12.0278,TRUE,Blue,4,3,33.6442,,NA,,0,S ,20.1865,,,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+290,FR-M94S-42,12,LB ,CM ,HL Mountain Frame - Silver 42,,,747.2002,TRUE,Silver,500,375,1364.5,42,42-46 CM,2.72,1,M ,818.7,H ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+256,FR-R38B-60,14,LB ,CM ,LL Road Frame - Black 60,Cuadro de carretera GB: negro 60,Cadre de vélo de route LL - noir 60,176.1997,TRUE,Black,500,375,297.6346,60,60-62 CM,2.48,1,R ,178.5808,L ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+289,FR-M94S-42,12,LB ,CM ,HL Mountain Frame - Silver 42,,,660.9142,TRUE,Silver,500,375,1240.4545,42,42-46 CM,2.72,1,M ,744.2727,H ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+418,FR-R72Y-38,14,LB ,CM ,ML Road Frame-W - Yellow 38,Cuadro de carretera para mujer GM: amarillo 38,Cadre de route ML -W - jaune 38,360.9428,TRUE,Yellow,500,375,594.83,38,38-40 CM,2.18,2,R ,356.898,M ,W ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+277,FR-R72R-58,14,LB ,CM ,ML Road Frame - Red 58,Cuadro de carretera GM: rojo 58,Cadre de vélo de route ML - rouge 58,352.1394,TRUE,Red,500,375,594.83,58,54-58 CM,2.36,1,R ,356.898,M ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+148,LW-4000,,,,Lock Washer 1,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+207,TO-2301,,,,Top Tube,,,,FALSE,NA,500,375,,,NA,,1,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+308,FR-M94S-38,12,LB ,CM ,HL Mountain Frame - Silver 38,,,660.9142,TRUE,Silver,500,375,1240.4545,38,38-40 CM,2.68,2,M ,744.2727,H ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+310,BK-R93R-62,2,LB ,CM ,Road-150 Red 62,Carretera: 150 roja 62,Vélo de route 150 rouge 62,2171.2942,TRUE,Red,100,75,3578.27,62,60-62 CM,15,4,R ,2146.962,H ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+177,RA-2345,,,,Cup-Shaped Race,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+495,FR-T98Y-50,16,LB ,CM ,HL Touring Frame - Yellow 50,Cuadro de paseo GA: amarillo 50,Cadre de vélo de randonnée HL - jaune 50,601.7437,TRUE,Yellow,500,375,1003.91,50,48-52 CM,3,1,T ,602.346,H ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+330,BK-R50R-52,2,LB ,CM ,Road-650 Red 52,Carretera: 650 roja 52,Vélo de route 650 rouge 52,413.1463,TRUE,Red,100,75,699.0982,52,48-52 CM,19.42,4,R ,419.4589,L ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+400,HB-M763,4,,,ML Mountain Handlebars,,,27.4925,TRUE,NA,500,375,61.92,,NA,,1,M ,37.152,M ,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+343,BK-R50B-52,2,LB ,CM ,Road-650 Black 52,Carretera: 650 negra 52,Vélo de route 650 noir 52,486.7066,TRUE,Black,100,75,782.99,52,48-52 CM,19.42,4,R ,469.794,L ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+324,BK-R50R-62,2,LB ,CM ,Road-650 Red 62,Carretera: 650 roja 62,Vélo de route 650 rouge 62,413.1463,TRUE,Red,100,75,699.0982,62,60-62 CM,20,4,R ,419.4589,L ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+188,SA-M237,,,,ML Mountain Seat Assembly,,,,FALSE,NA,500,375,,,NA,,1,,,M ,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+175,PA-823Y,,,,Paint - Yellow,,,,FALSE,NA,60,45,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+264,FR-R38R-48,14,LB ,CM ,LL Road Frame - Red 48,Cuadro de carretera GB: rojo 48,Cadre de vélo de route LL - rouge 48,181.4857,TRUE,Red,500,375,306.5636,48,48-52 CM,2.36,1,R ,183.9382,L ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+225,CA-1098,19,,,AWC Logo Cap,,,6.9223,TRUE,Multi,4,3,8.99,,NA,,0,S ,5.394,,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+421,RW-M928,17,,,HL Mountain Rear Wheel,,,145.2835,TRUE,Black,500,375,327.215,,NA,,1,M ,196.329,H ,,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+273,FR-R38R-62,14,LB ,CM ,LL Road Frame - Red 62,Cuadro de carretera GB: rojo 62,Cadre de vélo de route LL - rouge 62,187.1571,TRUE,Red,500,375,337.22,62,60-62 CM,2.5,1,R ,202.332,L ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+379,BK-R89B-58,2,LB ,CM ,Road-250 Black 58,Carretera: 250 negra 58,Vélo de route 250 noir 58,1320.6838,TRUE,Black,100,75,2181.5625,58,54-58 CM,15.68,4,R ,1308.9375,H ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+331,BK-R50R-52,2,LB ,CM ,Road-650 Red 52,Carretera: 650 roja 52,Vélo de route 650 rouge 52,486.7066,TRUE,Red,100,75,782.99,52,48-52 CM,19.42,4,R ,469.794,L ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+301,FR-M94B-46,12,LB ,CM ,HL Mountain Frame - Black 46,,,617.0281,TRUE,Black,500,375,1191.1739,46,42-46 CM,2.84,1,M ,714.7043,H ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+166,MS-2348,,,,Metal Sheet 6,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+135,LN-7161,,,,Lock Nut 14,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+447,LO-C100,34,,,Cable Lock,Cable antirrobo,Antivol câble,10.3125,TRUE,NA,4,3,25,,NA,,0,S ,15,,,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+309,FR-M94S-38,12,LB ,CM ,HL Mountain Frame - Silver 38,,,747.2002,TRUE,Silver,500,375,1364.5,38,38-40 CM,2.68,2,M ,818.7,H ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+237,LJ-0192-X,21,,,Long-Sleeve Logo Jersey XL,Jersey con logotipo de manga larga SG,Maillot manches longues avec logo taille XL,38.4923,TRUE,Multi,4,3,49.99,XL,XL,,0,S ,29.994,,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+292,FR-M94S-52,12,LB ,CM ,HL Mountain Frame - Silver 48,,,706.811,TRUE,Silver,500,375,1364.5,48,48-52 CM,2.8,1,M ,818.7,H ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+252,FR-R92R-56,14,LB ,CM ,HL Road Frame - Red 56,Cuadro de carretera GA: rojo 56,Cadre de vélo de route HL - rouge 56,868.6342,TRUE,Red,500,375,1431.5,56,54-58 CM,2.24,1,R ,858.9,H ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+529,TT-R982,37,,,Road Tire Tube,Cubierta para cámara de carretera,Chambre à air de vélo de route,1.4923,TRUE,NA,500,375,3.99,,NA,,0,R ,2.394,,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+137,LN-8320,,,,Lock Nut 4,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+374,BK-R89B-44,2,LB ,CM ,Road-250 Black 44,Carretera: 250 negra 44,Vélo de route 250 noir 44,1554.9479,TRUE,Black,100,75,2443.35,44,42-46 CM,14.77,4,R ,1466.01,H ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+171,PA-187B,,,,Paint - Black,,,,FALSE,NA,60,45,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+312,BK-R93R-48,2,LB ,CM ,Road-150 Red 48,Carretera: 150 roja 48,Vélo de route 150 rouge 48,2171.2942,TRUE,Red,100,75,3578.27,48,48-52 CM,14.13,4,R ,2146.962,H ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+296,FR-M94B-42,12,LB ,CM ,HL Mountain Frame - Black 42,,,617.0281,TRUE,Black,500,375,1191.1739,42,42-46 CM,2.72,1,M ,714.7043,H ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+258,FR-R38B-60,14,LB ,CM ,LL Road Frame - Black 60,Cuadro de carretera GB: negro 60,Cadre de vélo de route LL - noir 60,204.6251,TRUE,Black,500,375,337.22,60,60-62 CM,2.48,1,R ,202.332,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+149,LW-5160,,,,Lock Washer 7,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+152,LW-7160,,,,Lock Washer 9,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+488,SJ-0194-S,21,,,Short-Sleeve Classic Jersey S,Jersey clásico de manga corta P,Maillot manches courtes classique taille S,41.5723,TRUE,Yellow,4,3,53.99,S,S,,0,S ,32.394,,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+381,BK-R64Y-38,2,LB ,CM ,Road-550-W Yellow 38,Carretera: 550 para mujer amarilla 38,Vélo de route 550 -W - jaune 38,605.6492,TRUE,Yellow,100,75,1000.4375,38,38-40 CM,17.35,4,R ,600.2625,M ,W ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+519,SE-R908,15,,,ML Road Seat/Saddle,Sillín/asiento de carretera GM,Selle de vélo de route ML,17.3782,TRUE,NA,500,375,39.14,,NA,,1,T ,23.484,M ,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+372,BK-R89R-58,2,LB ,CM ,Road-250 Red 58,Carretera: 250 roja 58,Vélo de route 250 rouge 58,1554.9479,TRUE,Red,100,75,2443.35,58,54-58 CM,15.79,4,R ,1466.01,H ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+133,LN-5818,,,,Lock Nut 21,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+247,FR-R92R-52,14,LB ,CM ,HL Road Frame - Red 52,Cuadro de carretera GA: rojo 52,Cadre de vélo de route HL - rouge 52,747.9682,TRUE,Red,500,375,1263.4598,52,48-52 CM,2.2,1,R ,758.0759,H ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+293,FR-M94S-46,12,LB ,CM ,HL Mountain Frame - Silver 46,,,623.8403,TRUE,Silver,500,375,1204.3248,46,42-46 CM,2.84,1,M ,722.5949,H ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+352,BK-M68S-38,1,LB ,CM ,Mountain-200 Silver 38,Montaña: 200 plateada 38,VTT 200 argent 38,1117.8559,TRUE,Silver,100,75,2071.4196,38,38-40 CM,23.35,4,M ,1242.8518,H ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+255,FR-R38B-58,14,LB ,CM ,LL Road Frame - Black 58,Cuadro de carretera GB: negro 58,Cadre de vélo de route LL - noir 58,204.6251,TRUE,Black,500,375,337.22,58,54-58 CM,2.46,1,R ,202.332,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+287,FR-R38B-52,14,LB ,CM ,LL Road Frame - Black 52,Cuadro de carretera GB: negro 52,Cadre de vélo de route LL - noir 52,204.6251,TRUE,Black,500,375,337.22,52,48-52 CM,2.4,1,R ,202.332,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+134,LN-6320,,,,Lock Nut 3,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+219,SO-B909-L,23,,,Mountain Bike Socks L,Calcetines para bicicleta de montaña G,Chaussettes de VTT taille L,3.3963,TRUE,White,4,3,9.5,L,L,,0,M ,5.7,,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+285,FR-R38B-52,14,LB ,CM ,LL Road Frame - Black 52,Cuadro de carretera GB: negro 52,Cadre de vélo de route LL - noir 52,176.1997,TRUE,Black,500,375,297.6346,52,48-52 CM,2.4,1,R ,178.5808,L ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+316,BK-R68R-60,2,LB ,CM ,Road-450 Red 60,Carretera: 450 roja 60,Vélo de route 450 rouge 60,884.7083,TRUE,Red,100,75,1457.99,60,60-62 CM,17.9,4,R ,874.794,M ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+410,FW-M423,17,,,LL Mountain Front Wheel,,,26.9708,TRUE,Black,500,375,60.745,,NA,,1,M ,36.447,L ,,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+314,BK-R93R-56,2,LB ,CM ,Road-150 Red 56,Carretera: 150 roja 56,Vélo de route 150 rouge 56,2171.2942,TRUE,Red,100,75,3578.27,56,54-58 CM,14.68,4,R ,2146.962,H ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+240,FR-R92R-62,14,LB ,CM ,HL Road Frame - Red 62,Cuadro de carretera GA: rojo 62,Cadre de vélo de route HL - rouge 62,868.6342,TRUE,Red,500,375,1431.5,62,60-62 CM,2.3,1,R ,858.9,H ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+224,CA-1098,19,,,AWC Logo Cap,,,5.2297,TRUE,Multi,4,3,8.6442,,NA,,0,S ,5.1865,,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+322,BK-R50R-60,2,LB ,CM ,Road-650 Red 60,Carretera: 650 roja 60,Vélo de route 650 rouge 60,413.1463,TRUE,Red,100,75,699.0982,60,60-62 CM,19.9,4,R ,419.4589,L ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+320,BK-R50R-58,2,LB ,CM ,Road-650 Red 58,Carretera: 650 roja 58,Vélo de route 650 rouge 58,413.1463,TRUE,Red,100,75,699.0982,58,54-58 CM,19.79,4,R ,419.4589,L ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+232,LJ-0192-L,21,,,Long-Sleeve Logo Jersey L,Jersey con logotipo de manga larga G,Maillot manches longues avec logo taille L,31.7244,TRUE,Multi,4,3,48.0673,L,L,,0,S ,28.8404,,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+338,BK-R50B-44,2,LB ,CM ,Road-650 Black 44,Carretera: 650 negra 44,Vélo de route 650 noir 44,413.1463,TRUE,Black,100,75,699.0982,44,42-46 CM,18.77,4,R ,419.4589,L ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+276,FR-R72R-52,14,LB ,CM ,ML Road Frame - Red 52,Cuadro de carretera GM: rojo 52,Cadre de vélo de route ML - rouge 52,352.1394,TRUE,Red,500,375,594.83,52,48-52 CM,2.3,1,R ,356.898,M ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+358,BK-M68B-38,1,LB ,CM ,Mountain-200 Black 38,Montaña: 200 negra 38,VTT 200 noir 38,1105.81,TRUE,Black,100,75,2049.0982,38,38-40 CM,23.35,4,M ,1229.4589,H ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+520,SE-R995,15,,,HL Road Seat/Saddle,Sillín/asiento de carretera GA,Selle de vélo de route HL,23.3722,TRUE,NA,500,375,52.64,,NA,,1,R ,31.584,H ,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+241,FR-R92R-44,14,LB ,CM ,HL Road Frame - Red 44,Cuadro de carretera GA: rojo 44,Cadre de vélo de route HL - rouge 44,747.9682,TRUE,Red,500,375,1263.4598,44,42-46 CM,2.12,1,R ,758.0759,H ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+398,HB-M243,4,,,LL Mountain Handlebars,,,19.7758,TRUE,NA,500,375,44.54,,NA,,1,M ,26.724,L ,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+272,FR-R38R-62,14,LB ,CM ,LL Road Frame - Red 62,Cuadro de carretera GB: rojo 62,Cadre de vélo de route LL - rouge 62,181.4857,TRUE,Red,500,375,306.5636,62,60-62 CM,2.5,1,R ,183.9382,L ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+516,SE-M798,15,,,ML Mountain Seat/Saddle,,,17.3782,TRUE,NA,500,375,39.14,,NA,,1,M ,23.484,M ,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+461,SB-M891-L,18,,,Men's Bib-Shorts L,,,37.1209,TRUE,Multi,4,3,89.99,L,L,,0,S ,53.994,,M ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+283,FR-R38B-48,14,LB ,CM ,LL Road Frame - Black 48,Cuadro de carretera GB: negro 48,Cadre de vélo de route LL - noir 48,170.1428,TRUE,Black,500,375,306.5636,48,48-52 CM,2.36,1,R ,183.9382,L ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+470,GL-F110-L,20,,,Full-Finger Gloves L,Guantes completos G,Gants longs taille L,15.6709,TRUE,Black,4,3,37.99,L,L,,0,M ,22.794,,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+351,BK-M82B-48,1,LB ,CM ,Mountain-100 Black 48,Montaña: 100 negra 48,VTT 100 noir 48,1898.0944,TRUE,Black,100,75,3374.99,48,48-52 CM,21.42,4,M ,2024.994,H ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+313,BK-R93R-52,2,LB ,CM ,Road-150 Red 52,Carretera: 150 roja 52,Vélo de route 150 rouge 52,2171.2942,TRUE,Red,100,75,3578.27,52,48-52 CM,14.42,4,R ,2146.962,H ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+196,SD-2342,,,,LL Spindle/Axle,,,,FALSE,NA,500,375,,,NA,,0,,,L ,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+344,BK-M82S-38,1,LB ,CM ,Mountain-100 Silver 38,Montaña: 100 plateada 38,VTT 100 argent 38,1912.1544,TRUE,Silver,100,75,3399.99,38,38-40 CM,20.35,4,M ,2039.994,H ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+471,VE-C304-S,25,,,Classic Vest S,Camiseta clásica P,Veste classique taille S,23.749,TRUE,Blue,4,3,63.5,S,S,,0,S ,38.1,,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+443,FR-R92B-52,14,LB ,CM ,HL Road Frame - Black 52,Cuadro de carretera GA: negro 52,Cadre de vélo de route HL - noir 52,722.2568,TRUE,Black,500,375,1301.3636,52,48-52 CM,2.2,1,R ,780.8182,H ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+279,FR-R38B-44,14,LB ,CM ,LL Road Frame - Black 44,Cuadro de carretera GB: negro 44,Cadre de vélo de route LL - noir 44,176.1997,TRUE,Black,500,375,297.6346,44,42-46 CM,2.32,1,R ,178.5808,L ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+518,SE-R581,15,,,LL Road Seat/Saddle,Sillín/asiento de carretera GB,Selle de vélo de route LL,12.0413,TRUE,NA,500,375,27.12,,NA,,1,R ,16.272,L ,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+266,FR-R38R-52,14,LB ,CM ,LL Road Frame - Red 52,Cuadro de carretera GB: rojo 52,Cadre de vélo de route LL - rouge 52,181.4857,TRUE,Red,500,375,306.5636,52,48-52 CM,2.4,1,R ,183.9382,L ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+390,BK-R64Y-48,2,LB ,CM ,Road-550-W Yellow 48,Carretera: 550 para mujer amarilla 48,Vélo de route 550 -W - jaune 48,713.0798,TRUE,Yellow,100,75,1120.49,48,48-52 CM,18.68,4,R ,672.294,M ,W ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+373,BK-R89B-44,2,LB ,CM ,Road-250 Black 44,Carretera: 250 negra 44,Vélo de route 250 noir 44,1320.6838,TRUE,Black,100,75,2181.5625,44,42-46 CM,14.77,4,R ,1308.9375,H ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+435,FR-R72Y-48,14,LB ,CM ,ML Road Frame-W - Yellow 48,Cuadro de carretera para mujer GM: amarillo 48,Cadre de route ML -W - jaune 48,300.1188,TRUE,Yellow,500,375,540.7545,48,48-52 CM,2.34,1,R ,324.4527,M ,W ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+278,FR-R72R-60,14,LB ,CM ,ML Road Frame - Red 60,Cuadro de carretera GM: rojo 60,Cadre de vélo de route ML - rouge 60,352.1394,TRUE,Red,500,375,594.83,60,60-62 CM,2.38,1,R ,356.898,M ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+348,BK-M82B-38,1,LB ,CM ,Mountain-100 Black 38,Montaña: 100 negra 38,VTT 100 noir 38,1898.0944,TRUE,Black,100,75,3374.99,38,38-40 CM,20.35,4,M ,2024.994,H ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+522,SE-T762,15,,,ML Touring Seat/Saddle,Sillín/asiento de paseo GM,Selle de vélo de randonnée ML,17.3782,TRUE,NA,500,375,39.14,,NA,,1,T ,23.484,M ,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+284,FR-R38B-48,14,LB ,CM ,LL Road Frame - Black 48,Cuadro de carretera GB: negro 48,Cadre de vélo de route LL - noir 48,204.6251,TRUE,Black,500,375,337.22,48,48-52 CM,2.36,1,R ,202.332,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+159,MP-2503,,,,Metal Plate 1,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+211,FR-R92R-58,14,LB ,CM ,HL Road Frame - Red 58,,,,TRUE,Red,500,375,,58,54-58 CM,2.24,1,R ,,H ,U ,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+440,FR-R92B-44,14,LB ,CM ,HL Road Frame - Black 44,Cuadro de carretera GA: negro 44,Cadre de vélo de route HL - noir 44,868.6342,TRUE,Black,500,375,1431.5,44,42-46 CM,2.12,1,R ,858.9,H ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+451,LT-H902,33,,,Headlights - Dual-Beam,Luces: doble haz,Feu avant - double faisceau,14.4334,TRUE,NA,4,3,34.99,,NA,,0,R ,20.994,,,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+376,BK-R89B-48,2,LB ,CM ,Road-250 Black 48,Carretera: 250 negra 48,Vélo de route 250 noir 48,1554.9479,TRUE,Black,100,75,2443.35,48,48-52 CM,15.13,4,R ,1466.01,H ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+145,LW-1400,,,,Lock Washer 6,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+251,FR-R92R-56,14,LB ,CM ,HL Road Frame - Red 56,Cuadro de carretera GA: rojo 56,Cadre de vélo de route HL - rouge 56,722.2568,TRUE,Red,500,375,1301.3636,56,54-58 CM,2.24,1,R ,780.8182,H ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+311,BK-R93R-44,2,LB ,CM ,Road-150 Red 44,Carretera: 150 roja 44,Vélo de route 150 rouge 44,2171.2942,TRUE,Red,100,75,3578.27,44,42-46 CM,13.77,4,R ,2146.962,H ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+362,BK-M68B-46,1,LB ,CM ,Mountain-200 Black 46,Montaña: 200 negra 46,VTT 200 noir 46,1105.81,TRUE,Black,100,75,2049.0982,46,42-46 CM,24.13,4,M ,1229.4589,H ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+259,FR-R38B-62,14,LB ,CM ,LL Road Frame - Black 62,Cuadro de carretera GB: negro 62,Cadre de vélo de route LL - noir 62,176.1997,TRUE,Black,500,375,297.6346,62,60-62 CM,2.5,1,R ,178.5808,L ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+332,BK-R50B-58,2,LB ,CM ,Road-650 Black 58,Carretera: 650 negra 58,Vélo de route 650 noir 58,413.1463,TRUE,Black,100,75,699.0982,58,54-58 CM,19.79,4,R ,419.4589,L ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+199,SH-9312,,,,HL Shell,,,,FALSE,NA,800,600,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+323,BK-R50R-60,2,LB ,CM ,Road-650 Red 60,Carretera: 650 roja 60,Vélo de route 650 rouge 60,486.7066,TRUE,Red,100,75,782.99,60,60-62 CM,19.9,4,R ,469.794,L ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+294,FR-M94S-46,12,LB ,CM ,HL Mountain Frame - Silver 46,,,660.9142,TRUE,Silver,500,375,1240.4545,46,42-46 CM,2.84,1,M ,744.2727,H ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+530,TT-T092,37,,,Touring Tire Tube,Cubierta para cámara de paseo,Chambre à air de vélo de randonnée,1.8663,TRUE,NA,500,375,4.99,,NA,,0,T ,2.994,,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+327,BK-R50R-44,2,LB ,CM ,Road-650 Red 44,Carretera: 650 roja 44,Vélo de route 650 rouge 44,486.7066,TRUE,Red,100,75,782.99,44,42-46 CM,18.77,4,R ,469.794,L ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+389,BK-R64Y-48,2,LB ,CM ,Road-550-W Yellow 48,Carretera: 550 para mujer amarilla 48,Vélo de route 550 -W - jaune 48,605.6492,TRUE,Yellow,100,75,1000.4375,48,48-52 CM,18.68,4,R ,600.2625,M ,W ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+317,BK-R68R-44,2,LB ,CM ,Road-450 Red 44,Carretera: 450 roja 44,Vélo de route 450 rouge 44,884.7083,TRUE,Red,100,75,1457.99,44,42-46 CM,16.77,4,R ,874.794,M ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+254,FR-R38B-58,14,LB ,CM ,LL Road Frame - Black 58,Cuadro de carretera GB: negro 58,Cadre de vélo de route LL - noir 58,170.1428,TRUE,Black,500,375,306.5636,58,54-58 CM,2.46,1,R ,183.9382,L ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+438,FR-R92B-62,14,LB ,CM ,HL Road Frame - Black 62,Cuadro de carretera GA: negro 62,Cadre de vélo de route HL - noir 62,868.6342,TRUE,Black,500,375,1431.5,62,60-62 CM,2.3,1,R ,858.9,H ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+326,BK-R50R-44,2,LB ,CM ,Road-650 Red 44,Carretera: 650 roja 44,Vélo de route 650 rouge 44,413.1463,TRUE,Red,100,75,699.0982,44,42-46 CM,18.77,4,R ,419.4589,L ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+250,FR-R92R-56,14,LB ,CM ,HL Road Frame - Red 56,Cuadro de carretera GA: rojo 56,Cadre de vélo de route HL - rouge 56,747.9682,TRUE,Red,500,375,1263.4598,56,54-58 CM,2.24,1,R ,758.0759,H ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+493,FR-T67Y-62,16,LB ,CM ,LL Touring Frame - Yellow 62,Cuadro de paseo GB: amarillo 62,Cadre de vélo de randonnée LL - jaune 62,199.8519,TRUE,Yellow,500,375,333.42,62,60-62 CM,3.2,1,T ,200.052,L ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+286,FR-R38B-52,14,LB ,CM ,LL Road Frame - Black 52,Cuadro de carretera GB: negro 52,Cadre de vélo de route LL - noir 52,170.1428,TRUE,Black,500,375,306.5636,52,48-52 CM,2.4,1,R ,183.9382,L ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+445,SH-M897-S,22,,,Men's Sports Shorts S,Pantalones cortos de deporte para hombre P,Cuissards de route pour hommes taille S,24.7459,TRUE,Black,4,3,59.99,S,S,,0,S ,35.994,,M ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+334,BK-R50B-60,2,LB ,CM ,Road-650 Black 60,Carretera: 650 negra 60,Vélo de route 650 noir 60,413.1463,TRUE,Black,100,75,699.0982,60,60-62 CM,19.9,4,R ,419.4589,L ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+340,BK-R50B-48,2,LB ,CM ,Road-650 Black 48,Carretera: 650 negra 48,Vélo de route 650 noir 48,413.1463,TRUE,Black,100,75,699.0982,48,48-52 CM,19.13,4,R ,419.4589,L ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+406,HB-R720,4,,,ML Road Handlebars,Manillar de carretera GM,Poignées de vélo de route ML,27.4925,TRUE,NA,500,375,61.92,,NA,,1,R ,37.152,M ,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+402,HB-M918,4,,,HL Mountain Handlebars,,,53.3999,TRUE,NA,500,375,120.27,,NA,,1,M ,72.162,H ,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+346,BK-M82S-44,1,LB ,CM ,Mountain-100 Silver 44,Montaña: 100 plateada 44,VTT 100 argent 44,1912.1544,TRUE,Silver,100,75,3399.99,44,42-46 CM,21.13,4,M ,2039.994,H ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+469,GL-F110-M,20,,,Full-Finger Gloves M,Guantes completos M,Gants longs taille M,15.6709,TRUE,Black,4,3,37.99,M,M,,0,M ,22.794,,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+405,HB-R720,4,,,ML Road Handlebars,Manillar de carretera GM,Poignées de vélo de route ML,24.9932,TRUE,NA,500,375,56.2909,,NA,,1,R ,33.7745,M ,,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+388,BK-R64Y-44,2,LB ,CM ,Road-550-W Yellow 44,Carretera: 550 para mujer amarilla 44,Vélo de route 550 -W - jaune 44,713.0798,TRUE,Yellow,100,75,1120.49,44,42-46 CM,18.42,4,R ,672.294,M ,W ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+319,BK-R68R-52,2,LB ,CM ,Road-450 Red 52,Carretera: 450 roja 52,Vélo de route 450 rouge 52,884.7083,TRUE,Red,100,75,1457.99,52,48-52 CM,17.42,4,R ,874.794,M ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+298,FR-M94B-42,12,LB ,CM ,HL Mountain Frame - Black 42,,,739.041,TRUE,Black,500,375,1349.6,42,42-46 CM,2.72,1,M ,809.76,H ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+428,FR-M63B-48,12,LB ,CM ,ML Mountain Frame - Black 48,,,185.8193,TRUE,Black,500,375,348.76,48,48-52 CM,2.85,1,M ,209.256,M ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+473,VE-C304-L,25,,,Classic Vest L,Camiseta clásica G,Veste classique taille L,23.749,TRUE,Blue,4,3,63.5,L,L,,0,S ,38.1,,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+306,FR-M94B-38,12,LB ,CM ,HL Mountain Frame - Black 38,,,739.041,TRUE,Black,500,375,1349.6,38,38-40 CM,2.68,2,M ,809.76,H ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+422,RW-R623,17,G  ,,LL Road Rear Wheel,Rueda de carretera trasera GB,Roue arrière de vélo de route LL,49.9789,TRUE,Black,500,375,112.565,,NA,1050,1,R ,67.539,L ,,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+321,BK-R50R-58,2,LB ,CM ,Road-650 Red 58,Carretera: 650 roja 58,Vélo de route 650 rouge 58,486.7066,TRUE,Red,100,75,782.99,58,54-58 CM,19.79,4,R ,469.794,L ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+394,HS-0296,11,,,LL Headset,Dirección GB,Jeu de direction LL,15.1848,TRUE,NA,500,375,34.2,,NA,,1,,20.52,L ,,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+430,FR-R72Y-40,14,LB ,CM ,ML Road Frame-W - Yellow 40,Cuadro de carretera para mujer GM: amarillo 40,Cadre de route ML -W - jaune 40,360.9428,TRUE,Yellow,500,375,594.83,40,38-40 CM,2.22,1,R ,356.898,M ,W ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+370,BK-R89R-52,2,LB ,CM ,Road-250 Red 52,Carretera: 250 roja 52,Vélo de route 250 rouge 52,1518.7864,TRUE,Red,100,75,2443.35,52,48-52 CM,15.42,4,R ,1466.01,H ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+416,FW-T905,17,,,Touring Front Wheel,Rueda de paseo delantera,Roue avant de vélo de randonnée,96.7964,TRUE,Black,500,375,218.01,,NA,,1,T ,130.806,,,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+325,BK-R50R-62,2,LB ,CM ,Road-650 Red 62,Carretera: 650 roja 62,Vélo de route 650 rouge 62,486.7066,TRUE,Red,100,75,782.99,62,60-62 CM,20,4,R ,469.794,L ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+164,MS-2259,,,,Metal Sheet 4,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+223,CA-1098,19,,,AWC Logo Cap,,,5.7052,TRUE,Multi,4,3,8.6442,,NA,,0,S ,5.1865,,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+487,HY-1023-70,32,,,Hydration Pack - 70 oz.,,,20.5663,TRUE,Silver,4,3,54.99,70,70,,0,S ,32.994,,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+475,SH-W890-M,22,,,Women's Mountain Shorts M,,,26.1763,TRUE,Black,4,3,69.99,M,M,,0,M ,41.994,,W ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+482,SO-R809-L,23,,,Racing Socks L,Calcetines para carreras G,Chaussettes de course taille L,3.3623,TRUE,White,4,3,8.99,L,L,,0,R ,5.394,,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+200,SK-9283,,,,Spokes,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+253,FR-R38B-58,14,LB ,CM ,LL Road Frame - Black 58,Cuadro de carretera GB: negro 58,Cadre de vélo de route LL - noir 58,176.1997,TRUE,Black,500,375,297.6346,58,54-58 CM,2.46,1,R ,178.5808,L ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+333,BK-R50B-58,2,LB ,CM ,Road-650 Black 58,Carretera: 650 negra 58,Vélo de route 650 noir 58,486.7066,TRUE,Black,100,75,782.99,58,54-58 CM,19.79,4,R ,469.794,L ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+382,BK-R64Y-38,2,LB ,CM ,Road-550-W Yellow 38,Carretera: 550 para mujer amarilla 38,Vélo de route 550 -W - jaune 38,713.0798,TRUE,Yellow,100,75,1120.49,38,38-40 CM,17.35,4,R ,672.294,M ,W ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+271,FR-R38R-60,14,LB ,CM ,LL Road Frame - Red 60,Cuadro de carretera GB: rojo 60,Cadre de vélo de route LL - rouge 60,187.1571,TRUE,Red,500,375,337.22,60,60-62 CM,2.48,1,R ,202.332,L ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+413,FW-R623,17,G  ,,LL Road Front Wheel,Rueda de carretera delantera GB,Roue avant de vélo de route LL,37.9909,TRUE,Black,500,375,85.565,,NA,900,1,R ,51.339,L ,,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+412,FW-M928,17,,,HL Mountain Front Wheel,,,133.2955,TRUE,Black,500,375,300.215,,NA,,1,M ,180.129,H ,,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+349,BK-M82B-42,1,LB ,CM ,Mountain-100 Black 42,Montaña: 100 negra 42,VTT 100 noir 42,1898.0944,TRUE,Black,100,75,3374.99,42,42-46 CM,20.77,4,M ,2024.994,H ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+385,BK-R64Y-42,2,LB ,CM ,Road-550-W Yellow 42,Carretera: 550 para mujer amarilla 42,Vélo de route 550 -W - jaune 42,605.6492,TRUE,Yellow,100,75,1000.4375,42,42-46 CM,18.13,4,R ,600.2625,M ,W ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+407,HB-R956,4,,,HL Road Handlebars,Manillar de carretera GA,Poignées de vélo de route HL,48.5453,TRUE,NA,500,375,109.3364,,NA,,1,R ,65.6018,H ,,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+339,BK-R50B-44,2,LB ,CM ,Road-650 Black 44,Carretera: 650 negra 44,Vélo de route 650 noir 44,486.7066,TRUE,Black,100,75,782.99,44,42-46 CM,18.77,4,R ,469.794,L ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+434,FR-R72Y-44,14,LB ,CM ,ML Road Frame-W - Yellow 44,Cuadro de carretera para mujer GM: amarillo 44,Cadre de route ML -W - jaune 44,360.9428,TRUE,Yellow,500,375,594.83,44,42-46 CM,2.3,1,R ,356.898,M ,W ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+345,BK-M82S-42,1,LB ,CM ,Mountain-100 Silver 42,Montaña: 100 plateada 42,VTT 100 argent 42,1912.1544,TRUE,Silver,100,75,3399.99,42,42-46 CM,20.77,4,M ,2039.994,H ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+282,FR-R38B-48,14,LB ,CM ,LL Road Frame - Black 48,Cuadro de carretera GB: negro 48,Cadre de vélo de route LL - noir 48,176.1997,TRUE,Black,500,375,297.6346,48,48-52 CM,2.36,1,R ,178.5808,L ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+472,VE-C304-M,25,,,Classic Vest M,Camiseta clásica M,Veste classique taille M,23.749,TRUE,Blue,4,3,63.5,M,M,,0,S ,38.1,,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+426,FR-M63B-40,12,LB ,CM ,ML Mountain Frame - Black 40,,,185.8193,TRUE,Black,500,375,348.76,40,38-40 CM,2.77,1,M ,209.256,M ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+274,FR-R72R-44,14,LB ,CM ,ML Road Frame - Red 44,Cuadro de carretera GM: rojo 44,Cadre de vélo de route ML - rouge 44,352.1394,TRUE,Red,500,375,594.83,44,42-46 CM,2.22,1,R ,356.898,M ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+305,FR-M94B-38,12,LB ,CM ,HL Mountain Frame - Black 38,,,653.6971,TRUE,Black,500,375,1226.9091,38,38-40 CM,2.68,2,M ,736.1455,H ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+455,SH-M897-X,22,,,Men's Sports Shorts XL,Pantalones cortos de deporte para hombre SG,Cuissards de route pour hommes taille XL,24.7459,TRUE,Black,4,3,59.99,XL,XL,,0,S ,35.994,,M ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+485,FE-6654,30,,,Fender Set - Mountain,Conjunto de guardabarros: montaña,Jeu de garde-boue - VTT,8.2205,TRUE,NA,4,3,21.98,,NA,,0,M ,13.188,,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+355,BK-M68S-42,1,LB ,CM ,Mountain-200 Silver 42,Montaña: 200 plateada 42,VTT 200 argent 42,1265.6195,TRUE,Silver,100,75,2319.99,42,42-46 CM,23.77,4,M ,1391.994,H ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+378,BK-R89B-52,2,LB ,CM ,Road-250 Black 52,Carretera: 250 negra 52,Vélo de route 250 noir 52,1554.9479,TRUE,Black,100,75,2443.35,52,48-52 CM,15.42,4,R ,1466.01,H ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+408,HB-R956,4,,,HL Road Handlebars,Manillar de carretera GA,Poignées de vélo de route HL,53.3999,TRUE,NA,500,375,120.27,,NA,,1,R ,72.162,H ,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+363,BK-M68B-46,1,LB ,CM ,Mountain-200 Black 46,Montaña: 200 negra 46,VTT 200 noir 46,1251.9813,TRUE,Black,100,75,2294.99,46,42-46 CM,24.13,4,M ,1376.994,H ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+336,BK-R50B-62,2,LB ,CM ,Road-650 Black 62,Carretera: 650 negra 62,Vélo de route 650 noir 62,413.1463,TRUE,Black,100,75,699.0982,62,60-62 CM,20,4,R ,419.4589,L ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+329,BK-R50R-48,2,LB ,CM ,Road-650 Red 48,Carretera: 650 roja 48,Vélo de route 650 rouge 48,486.7066,TRUE,Red,100,75,782.99,48,48-52 CM,19.13,4,R ,469.794,L ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+497,FR-T98U-46,16,LB ,CM ,HL Touring Frame - Blue 46,Cuadro de paseo GA: azul 46,Cadre de vélo de randonnée HL - bleu 46,601.7437,TRUE,Blue,500,375,1003.91,46,42-46 CM,2.96,1,T ,602.346,H ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+318,BK-R68R-48,2,LB ,CM ,Road-450 Red 48,Carretera: 450 roja 48,Vélo de route 450 rouge 48,884.7083,TRUE,Red,100,75,1457.99,48,48-52 CM,17.13,4,R ,874.794,M ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+464,GL-H102-M,20,,,Half-Finger Gloves M,,,9.7136,TRUE,Black,4,3,23.5481,M,M,,0,S ,14.1289,,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+354,BK-M68S-42,1,LB ,CM ,Mountain-200 Silver 42,Montaña: 200 plateada 42,VTT 200 argent 42,1117.8559,TRUE,Silver,100,75,2071.4196,42,42-46 CM,23.77,4,M ,1242.8518,H ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+433,FR-R72Y-44,14,LB ,CM ,ML Road Frame-W - Yellow 44,Cuadro de carretera para mujer GM: amarillo 44,Cadre de route ML -W - jaune 44,300.1188,TRUE,Yellow,500,375,540.7545,44,42-46 CM,2.3,1,R ,324.4527,M ,W ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+450,LT-T990,33,,,Taillights - Battery-Powered,,,5.7709,TRUE,NA,4,3,13.99,,NA,,0,R ,8.394,,,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+521,SE-T312,15,,,LL Touring Seat/Saddle,Sillín/asiento de paseo GB,Selle de vélo de randonnée LL,12.0413,TRUE,NA,500,375,27.12,,NA,,1,T ,16.272,L ,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+168,MT-1000,,,,Metal Tread Plate,,,,FALSE,NA,1000,750,,,NA,,0,,,,,,,,,,,,,,,1998-06-01T00:00:00.000+0000,,Current
+226,LJ-0192-S,21,,,Long-Sleeve Logo Jersey S,Jersey con logotipo de manga larga P,Maillot manches longues avec logo taille S,31.7244,TRUE,Multi,4,3,48.0673,S,S,,0,S ,28.8404,,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+231,LJ-0192-M,21,,,Long-Sleeve Logo Jersey M,Jersey con logotipo de manga larga M,Maillot manches longues avec logo taille M,38.4923,TRUE,Multi,4,3,49.99,M,M,,0,S ,29.994,,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+269,FR-R38R-58,14,LB ,CM ,LL Road Frame - Red 58,Cuadro de carretera GB: rojo 58,Cadre de vélo de route LL - rouge 58,187.1571,TRUE,Red,500,375,337.22,58,54-58 CM,2.46,1,R ,202.332,L ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+356,BK-M68S-46,1,LB ,CM ,Mountain-200 Silver 46,Montaña: 200 plateada 46,VTT 200 argent 46,1117.8559,TRUE,Silver,100,75,2071.4196,46,42-46 CM,24.13,4,M ,1242.8518,H ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+431,FR-R72Y-42,14,LB ,CM ,ML Road Frame-W - Yellow 42,Cuadro de carretera para mujer GM: amarillo 42,Cadre de route ML -W - jaune 42,300.1188,TRUE,Yellow,500,375,540.7545,42,42-46 CM,2.26,1,R ,324.4527,M ,W ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+342,BK-R50B-52,2,LB ,CM ,Road-650 Black 52,Carretera: 650 negra 52,Vélo de route 650 noir 52,413.1463,TRUE,Black,100,75,699.0982,52,48-52 CM,19.42,4,R ,419.4589,L ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+361,BK-M68B-42,1,LB ,CM ,Mountain-200 Black 42,Montaña: 200 negra 42,VTT 200 noir 42,1251.9813,TRUE,Black,100,75,2294.99,42,42-46 CM,23.77,4,M ,1376.994,H ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+341,BK-R50B-48,2,LB ,CM ,Road-650 Black 48,Carretera: 650 negra 48,Vélo de route 650 noir 48,486.7066,TRUE,Black,100,75,782.99,48,48-52 CM,19.13,4,R ,469.794,L ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+384,BK-R64Y-40,2,LB ,CM ,Road-550-W Yellow 40,Carretera: 550 para mujer amarilla 40,Vélo de route 550 -W - jaune 40,713.0798,TRUE,Yellow,100,75,1120.49,40,38-40 CM,17.77,4,R ,672.294,M ,W ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+432,FR-R72Y-42,14,LB ,CM ,ML Road Frame-W - Yellow 42,Cuadro de carretera para mujer GM: amarillo 42,Cadre de route ML -W - jaune 42,360.9428,TRUE,Yellow,500,375,594.83,42,42-46 CM,2.26,1,R ,356.898,M ,W ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+357,BK-M68S-46,1,LB ,CM ,Mountain-200 Silver 46,Montaña: 200 plateada 46,VTT 200 argent 46,1265.6195,TRUE,Silver,100,75,2319.99,46,42-46 CM,24.13,4,M ,1391.994,H ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+386,BK-R64Y-42,2,LB ,CM ,Road-550-W Yellow 42,Carretera: 550 para mujer amarilla 42,Vélo de route 550 -W - jaune 42,713.0798,TRUE,Yellow,100,75,1120.49,42,42-46 CM,18.13,4,R ,672.294,M ,W ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+515,SE-M236,15,,,LL Mountain Seat/Saddle,,,12.0413,TRUE,NA,500,375,27.12,,NA,,1,M ,16.272,L ,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+481,SO-R809-M,23,,,Racing Socks M,Calcetines para carreras M,Chaussettes de course taille M,3.3623,TRUE,White,4,3,8.99,M,M,,0,R ,5.394,,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+366,BK-M47B-44,1,LB ,CM ,Mountain-300 Black 44,Montaña: 300 negra 44,VTT 300 noir 44,598.4354,TRUE,Black,100,75,1079.99,44,42-46 CM,26.13,4,M ,647.994,M ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+380,BK-R89B-58,2,LB ,CM ,Road-250 Black 58,Carretera: 250 negra 58,Vélo de route 250 noir 58,1554.9479,TRUE,Black,100,75,2443.35,58,54-58 CM,15.68,4,R ,1466.01,H ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+494,FR-T98Y-46,16,LB ,CM ,HL Touring Frame - Yellow 46,Cuadro de paseo GA: amarillo 46,Cadre de vélo de randonnée HL - jaune 46,601.7437,TRUE,Yellow,500,375,1003.91,46,42-46 CM,2.96,1,T ,602.346,H ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+460,SB-M891-M,18,,,Men's Bib-Shorts M,,,37.1209,TRUE,Multi,4,3,89.99,M,M,,0,S ,53.994,,M ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+501,RD-2308,9,G  ,,Rear Derailleur,Desviador trasero,Dérailleur arrière,53.9282,TRUE,Silver,500,375,121.46,,NA,215,1,,72.876,,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+477,WB-H098,28,,,Water Bottle - 30 oz.,,,1.8663,TRUE,NA,4,3,4.99,,NA,,0,S ,2.994,,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+479,BC-R205,28,,,Road Bottle Cage,Portabotellas de carretera,Porte-bidon de vélo de route,3.3623,TRUE,NA,4,3,8.99,,NA,,0,R ,5.394,,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+483,RA-H123,26,,,Hitch Rack - 4-Bike,,,44.88,TRUE,NA,4,3,120,,NA,,0,S ,72,,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+377,BK-R89B-52,2,LB ,CM ,Road-250 Black 52,Carretera: 250 negra 52,Vélo de route 250 noir 52,1320.6838,TRUE,Black,100,75,2181.5625,52,48-52 CM,15.42,4,R ,1308.9375,H ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+337,BK-R50B-62,2,LB ,CM ,Road-650 Black 62,Carretera: 650 negra 62,Vélo de route 650 noir 62,486.7066,TRUE,Black,100,75,782.99,62,60-62 CM,20,4,R ,469.794,L ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+458,TG-W091-L,24,,,Women's Tights L,Mallas para mujer G,Collants pour femmes taille L,30.9334,TRUE,Black,4,3,74.99,L,L,,0,S ,44.994,,W ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+417,FR-R72Y-38,14,LB ,CM ,ML Road Frame-W - Yellow 38,Cuadro de carretera para mujer GM: amarillo 38,Cadre de route ML -W - jaune 38,300.1188,TRUE,Yellow,500,375,540.7545,38,38-40 CM,2.18,2,R ,324.4527,M ,W ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+467,GL-H102-L,20,,,Half-Finger Gloves L,,,9.1593,TRUE,Black,4,3,24.49,L,L,,0,S ,14.694,,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+446,PA-T100,35,,,Touring-Panniers Large,Cesta de paseo grande,Sacoches de vélo de randonnée grande capacité,51.5625,TRUE,Grey,4,3,125,,NA,,0,T ,75,,,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+364,BK-M47B-38,1,LB ,CM ,Mountain-300 Black 38,Montaña: 300 negra 38,VTT 300 noir 38,598.4354,TRUE,Black,100,75,1079.99,38,38-40 CM,25.35,4,M ,647.994,M ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+229,LJ-0192-M,21,,,Long-Sleeve Logo Jersey M,Jersey con logotipo de manga larga M,Maillot manches longues avec logo taille M,31.7244,TRUE,Multi,4,3,48.0673,M,M,,0,S ,28.8404,,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+368,BK-R89R-44,2,LB ,CM ,Road-250 Red 44,Carretera: 250 roja 44,Vélo de route 250 rouge 44,1518.7864,TRUE,Red,100,75,2443.35,44,42-46 CM,14.77,4,R ,1466.01,H ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+245,FR-R92R-48,14,LB ,CM ,HL Road Frame - Red 48,Cuadro de carretera GA: rojo 48,Cadre de vélo de route HL - rouge 48,722.2568,TRUE,Red,500,375,1301.3636,48,48-52 CM,2.16,1,R ,780.8182,H ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+350,BK-M82B-44,1,LB ,CM ,Mountain-100 Black 44,Montaña: 100 negra 44,VTT 100 noir 44,1898.0944,TRUE,Black,100,75,3374.99,44,42-46 CM,21.13,4,M ,2024.994,H ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+360,BK-M68B-42,1,LB ,CM ,Mountain-200 Black 42,Montaña: 200 negra 42,VTT 200 noir 42,1105.81,TRUE,Black,100,75,2049.0982,42,42-46 CM,23.77,4,M ,1229.4589,H ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+439,FR-R92B-44,14,LB ,CM ,HL Road Frame - Black 44,Cuadro de carretera GA: negro 44,Cadre de vélo de route HL - noir 44,722.2568,TRUE,Black,500,375,1301.3636,44,42-46 CM,2.12,1,R ,780.8182,H ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+365,BK-M47B-40,1,LB ,CM ,Mountain-300 Black 40,Montaña: 300 negra 40,VTT 300 noir 40,598.4354,TRUE,Black,100,75,1079.99,40,38-40 CM,25.77,4,M ,647.994,M ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+476,SH-W890-L,22,,,Women's Mountain Shorts L,,,26.1763,TRUE,Black,4,3,69.99,L,L,,0,M ,41.994,,W ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+441,FR-R92B-48,14,LB ,CM ,HL Road Frame - Black 48,Cuadro de carretera GA: negro 48,Cadre de vélo de route HL - noir 48,722.2568,TRUE,Black,500,375,1301.3636,48,48-52 CM,2.16,1,R ,780.8182,H ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+335,BK-R50B-60,2,LB ,CM ,Road-650 Black 60,Carretera: 650 negra 60,Vélo de route 650 noir 60,486.7066,TRUE,Black,100,75,782.99,60,60-62 CM,19.9,4,R ,469.794,L ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+392,FK-5136,10,,,ML Fork,Horquilla GM,Fourche ML,77.9176,TRUE,NA,500,375,175.49,,NA,,1,,105.294,M ,,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+466,GL-H102-L,20,,,Half-Finger Gloves L,,,9.7136,TRUE,Black,4,3,23.5481,L,L,,0,S ,14.1289,,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+492,FR-T98Y-60,16,LB ,CM ,HL Touring Frame - Yellow 60,Cuadro de paseo GA: amarillo 60,Cadre de vélo de randonnée HL - jaune 60,601.7437,TRUE,Yellow,500,375,1003.91,60,60-62 CM,3.08,1,T ,602.346,H ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+395,HS-2451,11,,,ML Headset,Dirección GM,Jeu de direction ML,45.4168,TRUE,NA,500,375,102.29,,NA,,1,,61.374,M ,,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+459,SB-M891-S,18,,,Men's Bib-Shorts S,,,37.1209,TRUE,Multi,4,3,89.99,S,S,,0,S ,53.994,,M ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+478,BC-M005,28,,,Mountain Bottle Cage,Portabotellas de montaña,Porte-bidon de VTT,3.7363,TRUE,NA,4,3,9.99,,NA,,0,M ,5.994,,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+427,FR-M63B-44,12,LB ,CM ,ML Mountain Frame - Black 44,,,185.8193,TRUE,Black,500,375,348.76,44,42-46 CM,2.81,1,M ,209.256,M ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+496,FR-T98Y-54,16,LB ,CM ,HL Touring Frame - Yellow 54,Cuadro de paseo GA: amarillo 54,Cadre de vélo de randonnée HL - jaune 54,601.7437,TRUE,Yellow,500,375,1003.91,54,54-58 CM,3.04,1,T ,602.346,H ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+491,SJ-0194-X,21,,,Short-Sleeve Classic Jersey XL,Jersey clásico de manga corta SG,Maillot manches courtes classique taille XL,41.5723,TRUE,Yellow,4,3,53.99,XL,XL,,0,S ,32.394,,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+547,PD-R853,13,G  ,,HL Road Pedal,Pedal de carretera GA,Pédale de vélo de route HL,35.9596,TRUE,Silver/Black,500,375,80.99,,NA,149,1,R ,48.594,H ,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+437,FR-R92B-62,14,LB ,CM ,HL Road Frame - Black 62,Cuadro de carretera GA: negro 62,Cadre de vélo de route HL - noir 62,722.2568,TRUE,Black,500,375,1301.3636,62,60-62 CM,2.3,1,R ,780.8182,H ,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+353,BK-M68S-38,1,LB ,CM ,Mountain-200 Silver 38,Montaña: 200 plateada 38,VTT 200 argent 38,1265.6195,TRUE,Silver,100,75,2319.99,38,38-40 CM,23.35,4,M ,1391.994,H ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+399,HB-M763,4,,,ML Mountain Handlebars,,,24.9932,TRUE,NA,500,375,56.2909,,NA,,1,M ,33.7745,M ,,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+465,GL-H102-M,20,,,Half-Finger Gloves M,,,9.1593,TRUE,Black,4,3,24.49,M,M,,0,S ,14.694,,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+484,CL-9009,29,,,Bike Wash - Dissolver,Lavado de bicicletas: disolvente,Entretien du vélo - dissolvant,2.9733,TRUE,NA,4,3,7.95,,NA,,0,S ,4.77,,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+420,RW-M762,17,,,ML Mountain Rear Wheel,,,104.7951,TRUE,Black,500,375,236.025,,NA,,1,M ,141.615,M ,,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+486,ST-1401,27,,,All-Purpose Bike Stand,Soporte multiusos para bicicletas,Range-vélo pour tous modèles,59.466,TRUE,NA,4,3,159,,NA,,0,M ,95.4,,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+396,HS-3479,11,,,HL Headset,Dirección GA,Jeu de direction HL,55.3801,TRUE,NA,500,375,124.73,,NA,,1,,74.838,H ,,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+429,FR-R72Y-40,14,LB ,CM ,ML Road Frame-W - Yellow 40,Cuadro de carretera para mujer GM: amarillo 40,Cadre de route ML -W - jaune 40,300.1188,TRUE,Yellow,500,375,540.7545,40,38-40 CM,2.22,1,R ,324.4527,M ,W ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+468,GL-F110-S,20,,,Full-Finger Gloves S,Guantes completos P,Gants longs taille S,15.6709,TRUE,Black,4,3,37.99,S,S,,0,M ,22.794,,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+489,SJ-0194-M,21,,,Short-Sleeve Classic Jersey M,Jersey clásico de manga corta M,Maillot manches courtes classique taille M,41.5723,TRUE,Yellow,4,3,53.99,M,M,,0,S ,32.394,,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+456,TG-W091-S,24,,,Women's Tights S,Mallas para mujer P,Collants pour femmes taille S,30.9334,TRUE,Black,4,3,74.99,S,S,,0,S ,44.994,,W ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+442,FR-R92B-48,14,LB ,CM ,HL Road Frame - Black 48,Cuadro de carretera GA: negro 48,Cadre de vélo de route HL - noir 48,868.6342,TRUE,Black,500,375,1431.5,48,48-52 CM,2.16,1,R ,858.9,H ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+393,FK-9939,10,,,HL Fork,Horquilla GA,Fourche HL,101.8936,TRUE,NA,500,375,229.49,,NA,,1,,137.694,H ,,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+490,SJ-0194-L,21,,,Short-Sleeve Classic Jersey L,Jersey clásico de manga corta G,Maillot manches courtes classique taille L,41.5723,TRUE,Yellow,4,3,53.99,L,L,,0,S ,32.394,,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+347,BK-M82S-48,1,LB ,CM ,Mountain-100 Silver 48,Montaña: 100 plateada 48,VTT 100 argent 48,1912.1544,TRUE,Silver,100,75,3399.99,48,48-52 CM,21.42,4,M ,2039.994,H ,U ,,,,,,,,,,,2001-07-01T00:00:00.000+0000,2002-06-30T00:00:00.000+0000,
+480,PK-7098,37,,,Patch Kit/8 Patches,,,0.8565,TRUE,NA,4,3,2.29,,NA,,0,S ,1.374,,,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+444,FR-R92B-52,14,LB ,CM ,HL Road Frame - Black 52,Cuadro de carretera GA: negro 52,Cadre de vélo de route HL - noir 52,868.6342,TRUE,Black,500,375,1431.5,52,48-52 CM,2.2,1,R ,858.9,H ,U ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+436,FR-R72Y-48,14,LB ,CM ,ML Road Frame-W - Yellow 48,Cuadro de carretera para mujer GM: amarillo 48,Cadre de route ML -W - jaune 48,360.9428,TRUE,Yellow,500,375,594.83,48,48-52 CM,2.34,1,R ,356.898,M ,W ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current
+419,RW-M423,17,,,LL Mountain Rear Wheel,,,38.9588,TRUE,Black,500,375,87.745,,NA,,1,M ,52.647,L ,,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+448,PU-0452,36,,,Minipump,,,8.2459,TRUE,NA,4,3,19.99,,NA,,0,S ,11.994,,,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+462,GL-H102-S,20,,,Half-Finger Gloves S,,,9.7136,TRUE,Black,4,3,23.5481,S,S,,0,S ,14.1289,,U ,,,,,,,,,,,2002-07-01T00:00:00.000+0000,2003-06-30T00:00:00.000+0000,
+474,SH-W890-S,22,,,Women's Mountain Shorts S,,,26.1763,TRUE,Black,4,3,69.99,S,S,,0,M ,41.994,,W ,,,,,,,,,,,2003-07-01T00:00:00.000+0000,,Current

@@ -1,0 +1,178 @@
+﻿--===================
+-- Exercise 1
+--===================
+
+-- Slow version
+----------------
+
+select *
+from sys.dm_pdw_exec_requests
+where [label] like 'Exercise1 | Slow%'
+order by submit_time desc;
+
+select *
+from sys.dm_pdw_request_steps
+where request_id = 'QID####'
+order by step_index;
+
+
+-- Fast version
+----------------
+
+select *
+from sys.dm_pdw_exec_requests
+where [label] like 'Exercise1 | Fast%'
+order by submit_time desc;
+
+select *
+from sys.dm_pdw_request_steps
+where request_id = 'QID####'
+order by step_index;
+
+-- Check table types by running 
+-- TableDetails.sql script
+
+------------------------------------------------------------------------------------------
+
+--===================
+-- Exercise 2
+--===================
+
+-- Slow version
+----------------
+
+select *
+from sys.dm_pdw_exec_requests
+where [label] like 'Exercise2 | Slow%'
+order by submit_time desc;
+
+select *
+from sys.dm_pdw_request_steps
+where request_id = 'QID####'
+	and operation_type not in ('RandomIDOperation') 
+	and command not like 'CREATE %' 
+	and command not like 'DROP %'
+order by step_index;
+
+
+-- Fast version
+----------------
+
+select *
+from sys.dm_pdw_exec_requests
+where [label] like 'Exercise2 | Fast%'
+order by submit_time desc;
+
+select *
+from sys.dm_pdw_request_steps
+where request_id = 'QID####'
+	and operation_type not in ('RandomIDOperation') 
+	and command not like 'CREATE %' 
+	and command not like 'DROP %'
+order by step_index;
+
+-- Check table types by running 
+-- TableDetails.sql script
+
+------------------------------------------------------------------------------------------
+
+--===================
+-- Exercise 3
+--===================
+
+-- Slow version
+----------------
+
+select *
+from sys.dm_pdw_exec_requests
+where [label] like 'Exercise3 | Slow%'
+order by submit_time desc;
+
+select *
+from sys.dm_pdw_request_steps
+where request_id = 'QID####'
+	and operation_type not in ('RandomIDOperation') 
+	and command not like 'CREATE %' 
+	and command not like 'DROP %'
+order by step_index;
+
+
+-- Fast version
+----------------
+
+select *
+from sys.dm_pdw_exec_requests
+where [label] like 'Exercise3 | Fast%'
+order by submit_time desc;
+
+select *
+from sys.dm_pdw_request_steps
+where request_id = 'QID####'
+	and operation_type not in ('RandomIDOperation') 
+	and command not like 'CREATE %' 
+	and command not like 'DROP %'
+order by step_index;
+
+-- Check table types by running 
+-- TableDetails.sql script
+
+-- Check table sizes by running
+-- TableSizes.sql
+
+------------------------------------------------------------------------------------------
+
+--===================
+-- Exercise 4
+--===================
+
+-- Slow version
+----------------
+
+select *
+from sys.dm_pdw_exec_requests
+where [label] like 'Exercise4 | Slow%'
+order by submit_time desc;
+
+select *
+from sys.dm_pdw_request_steps
+where request_id = 'QID####'
+	and operation_type not in ('RandomIDOperation') 
+	and command not like 'CREATE %' 
+	and command not like 'DROP %'
+order by step_index;
+
+
+-- Fast version
+----------------
+
+select *
+from sys.dm_pdw_exec_requests
+where [label] like 'Exercise4 | Fast%'
+order by submit_time desc;
+
+select *
+from sys.dm_pdw_request_steps
+where request_id = 'QID####'
+	and operation_type not in ('RandomIDOperation') 
+	and command not like 'CREATE %' 
+	and command not like 'DROP %'
+order by step_index;
+
+------------------------------------------------------------------------------------------
+
+
+--===================
+-- Exercise 5
+--===================
+
+select *
+from sys.dm_pdw_exec_requests
+where [status] not in ('Completed','Failed','Cancelled') and session_id <> session_id()
+order by request_id desc;
+
+select w.session_id, w.request_id, r.command, r.status, r.start_time, w.type, w.object_type, w.object_name, w.state
+from sys.dm_pdw_waits w
+	join sys.dm_pdw_exec_requests r on w.request_id=r.request_id
+where w.request_id = 'QID####'
+order by w.object_name, w.object_type, w.state;
+

@@ -1,0 +1,2 @@
+Follow instructions from:
+https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/sql-data-warehouse/load-data-from-azure-blob-storage-using-polybase.md
