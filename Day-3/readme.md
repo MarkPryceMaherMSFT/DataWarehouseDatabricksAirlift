@@ -95,6 +95,13 @@ document. **
 
 4.  Write a query to join both tables above to generate a report that looks similar to below:
 
+Product Key	|	ProductSubCategoryKey	|	ListPrice
+
+488		|	21			|	53.99	
+
+371		|	2			|	2181.5625
+
+
 5.  Create a reporting user named `rptusr` with absolute minimum privileges to execute the query above.
 
 6.  The query observed to be not performing optimally. Investigate the
